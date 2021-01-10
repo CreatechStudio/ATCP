@@ -1,0 +1,58 @@
+class indi.atatc.atcp_client.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+class indi.atatc.atcp_client.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+class indi.atatc.atcp_client.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+class indi.atatc.atcp_client.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+java.net.SocketException: Socket is closed
+class indi.atatc.atcp_client.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+class indi.atatc.atcp_client.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+java.net.SocketException: Socket is closed
+java.net.SocketException: Socket is closed
+java.net.SocketException: Socket is closed
+java.net.SocketException: Socket is closed
+java.net.SocketException: Socket is closed
+java.net.SocketException: Socket is closed
+java.net.SocketException: Socket is closed
+java.net.SocketException: Socket is closed
+java.net.SocketException: Socket is closed
+java.net.SocketException: Socket is closed
+java.net.SocketException: Socket is closed
+java.net.SocketException: Socket is closed
+recved msg: A
+java.net.SocketException: Socket is closed
+java.net.SocketException: Socket is closed
+recved msg: A
+recved msg: A
+recved msg: B
+recved msg: A
+recved msg: B
+class indi.atatc.atcp_client.packages.basics.Basics$AccidentEvents$EmptyMessageError{cannot send a message which is empty, pid: 1 }
+class indi.atatc.atcp_client.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+class indi.atatc.atcp_client.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+recved msg: 
+recved msg: B
+recved msg: 
+recved msg: B
+recved msg: 
+recved msg: B
+class indi.atatc.atcp_client.packages.basics.Basics$AccidentEvents$StatusError{client isn't active now }
+recved msg: 
+recved msg: B
+class indi.atatc.atcp_client.packages.basics.Basics$AccidentEvents$StatusError{client isn't active now }
+recved msg: 
+recved msg: B
+recved msg: 
+recved msg: B
+recved msg: 
+recved msg: B
+recved msg: 
+recved msg: B
+recved msg: 
+recved msg: B
+recved msg: 
+recved msg: B
+recved msg: 
+recved msg: B
+OK
+OK
+OK
+test recved: 1

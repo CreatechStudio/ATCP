@@ -1,0 +1,1247 @@
+connected IP: 127.0.0.1
+{1=Thread[Thread-1,5,main]}
+connected IP: localhost
+{1=Main$2$1@6acbcfc0}
+connected IP: localhost
+{1=Main$2$1@7b23ec81}
+connected IP: localhost
+{1=Main$2$1@255316f2}
+connected IP: localhost
+{1=Main$2$1@5ce65a89}
+connected IP: localhost
+{1=Main$2$1@2b71fc7e}
+connected IP: localhost
+{1=Main$2$1@2b71fc7e, 2=Main$2$1@5ce65a89}
+connected IP: localhost
+{1=Main$2$1@2b71fc7e}
+java.net.SocketException: Connection reset
+java.net.SocketException: Socket is closed
+connected IP: localhost
+{2=Main$2$1@5ce65a89}
+AccidentEvent{args=[message is empty, pid 2]}
+AccidentEvent{args=[message is empty, pid 2]}
+java.net.SocketException: Socket is closed
+connected IP: localhost
+{3=Main$2$1@25f38edc}
+java.net.SocketException: Connection reset
+java.net.SocketException: Socket is closed
+connected IP: localhost
+{4=Main$2$1@1a86f2f1}
+connected IP: localhost
+{1=Main$2$1@6acbcfc0}
+java.net.SocketException: Socket is closed
+connected IP: localhost
+{1=Main$2$1@7291c18f}
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{cannot send a message which is empty, pid: 1 }
+connected IP: localhost
+{1=Main$2$1@7291c18f, 2=Main$2$1@34a245ab}
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{cannot send a message which is empty, pid: 2 }
+connected IP: localhost
+{1=Main$2$1@7291c18f, 2=Main$2$1@34a245ab, 3=Main$2$1@7cc355be}
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{cannot send a message which is empty, pid: 3 }
+connected IP: localhost
+{1=Main$2$1@34a245ab}
+connected IP: localhost
+{1=Main$2$1@34a245ab, 2=Main$2$1@7cc355be}
+connected IP: localhost
+{1=Main$2$1@34a245ab, 2=Main$2$1@7cc355be, 3=Main$2$1@6e8cf4c6}
+connected IP: localhost
+{1=Main$2$1@34a245ab, 2=Main$2$1@7cc355be, 3=Main$2$1@6e8cf4c6, 4=Main$2$1@12edcd21}
+connected IP: localhost
+{1=Main$2$1@34a245ab, 2=Main$2$1@7cc355be, 3=Main$2$1@6e8cf4c6, 4=Main$2$1@12edcd21, 5=Main$2$1@34c45dca}
+connected IP: localhost
+{1=Main$2$1@34a245ab, 2=Main$2$1@7cc355be, 3=Main$2$1@6e8cf4c6, 4=Main$2$1@12edcd21, 5=Main$2$1@34c45dca, 6=Main$2$1@52cc8049}
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{cannot send a message which is empty, pid: 1 }
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{cannot send a message which is empty, pid: 6 }
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{cannot send a message which is empty, pid: 2 }
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{cannot send a message which is empty, pid: 4 }
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{cannot send a message which is empty, pid: 3 }
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{cannot send a message which is empty, pid: 5 }
+connected IP: localhost
+{1=Main$2$1@34a245ab, 2=Main$2$1@7cc355be, 3=Main$2$1@6e8cf4c6, 4=Main$2$1@12edcd21, 5=Main$2$1@34c45dca, 6=Main$2$1@52cc8049, 7=Main$2$1@5b6f7412}
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{cannot send a message which is empty, pid: 7 }
+connected IP: localhost
+{1=Main$2$1@34a245ab, 2=Main$2$1@7cc355be, 3=Main$2$1@6e8cf4c6, 4=Main$2$1@12edcd21, 5=Main$2$1@34c45dca, 6=Main$2$1@52cc8049, 7=Main$2$1@5b6f7412, 8=Main$2$1@27973e9b}
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{cannot send a message which is empty, pid: 8 }
+connected IP: localhost
+{1=Main$2$1@34a245ab, 2=Main$2$1@7cc355be, 3=Main$2$1@6e8cf4c6, 4=Main$2$1@12edcd21, 5=Main$2$1@34c45dca, 6=Main$2$1@52cc8049, 7=Main$2$1@5b6f7412, 8=Main$2$1@27973e9b, 9=Main$2$1@312b1dae}
+connected IP: localhost
+{1=Main$2$1@34a245ab, 2=Main$2$1@7cc355be, 3=Main$2$1@6e8cf4c6, 4=Main$2$1@12edcd21, 5=Main$2$1@34c45dca, 6=Main$2$1@52cc8049, 7=Main$2$1@5b6f7412, 8=Main$2$1@27973e9b, 9=Main$2$1@312b1dae, 10=Main$2$1@7530d0a}
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{cannot send a message which is empty, pid: 10 }
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{cannot send a message which is empty, pid: 9 }
+connected IP: localhost
+{1=Main$2$1@34a245ab, 2=Main$2$1@7cc355be, 3=Main$2$1@6e8cf4c6, 4=Main$2$1@12edcd21, 5=Main$2$1@34c45dca, 6=Main$2$1@52cc8049, 7=Main$2$1@5b6f7412, 8=Main$2$1@27973e9b, 9=Main$2$1@312b1dae, 10=Main$2$1@7530d0a, 11=Main$2$1@27bc2616}
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{cannot send a message which is empty, pid: 11 }
+connected IP: localhost
+{12=Main$2$1@3941a79c, 1=Main$2$1@34a245ab, 2=Main$2$1@7cc355be, 3=Main$2$1@6e8cf4c6, 4=Main$2$1@12edcd21, 5=Main$2$1@34c45dca, 6=Main$2$1@52cc8049, 7=Main$2$1@5b6f7412, 8=Main$2$1@27973e9b, 9=Main$2$1@312b1dae, 10=Main$2$1@7530d0a, 11=Main$2$1@27bc2616}
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{cannot send a message which is empty, pid: 12 }
+connected IP: localhost
+{1=Main$2$1@34a245ab}
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{cannot send a message which is empty, pid: 1 }
+connected IP: localhost
+{1=Main$2$1@34a245ab}
+connected IP: localhost
+{1=Main$2$1@34a245ab}
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{cannot send a message which is empty, pid: 1 }
+connected IP: localhost
+{1=Main$2$1@7291c18f}
+connected IP: localhost
+{1=Main$2$1@7291c18f, 2=Main$2$1@34a245ab}
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{cannot send a message which is empty, pid: 1 }
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{cannot send a message which is empty, pid: 2 }
+connected IP: localhost
+{1=Main$2$1@7291c18f, 2=Main$2$1@34a245ab, 3=Main$2$1@7cc355be}
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{cannot send a message which is empty, pid: 3 }
+connected IP: localhost
+{1=Main$2$1@7291c18f, 2=Main$2$1@34a245ab, 3=Main$2$1@7cc355be, 4=Main$2$1@6e8cf4c6}
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{cannot send a message which is empty, pid: 4 }
+connected IP: localhost
+{1=Main$2$1@7291c18f, 2=Main$2$1@34a245ab, 3=Main$2$1@7cc355be, 4=Main$2$1@6e8cf4c6, 5=Main$2$1@12edcd21}
+connected IP: localhost
+{1=Main$2$1@7291c18f, 2=Main$2$1@34a245ab, 3=Main$2$1@7cc355be, 4=Main$2$1@6e8cf4c6, 5=Main$2$1@12edcd21, 6=Main$2$1@34c45dca}
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{cannot send a message which is empty, pid: 6 }
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{cannot send a message which is empty, pid: 5 }
+connected IP: localhost
+{1=Main$2$1@7291c18f, 2=Main$2$1@34a245ab, 3=Main$2$1@7cc355be, 4=Main$2$1@6e8cf4c6, 5=Main$2$1@12edcd21, 6=Main$2$1@34c45dca, 7=Main$2$1@52cc8049}
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{cannot send a message which is empty, pid: 7 }
+connected IP: localhost
+{1=Main$2$1@7291c18f, 2=Main$2$1@34a245ab, 3=Main$2$1@7cc355be, 4=Main$2$1@6e8cf4c6, 5=Main$2$1@12edcd21, 6=Main$2$1@34c45dca, 7=Main$2$1@52cc8049, 8=Main$2$1@5b6f7412}
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{cannot send a message which is empty, pid: 8 }
+connected IP: localhost
+{1=Main$2$1@7291c18f, 2=Main$2$1@34a245ab, 3=Main$2$1@7cc355be, 4=Main$2$1@6e8cf4c6, 5=Main$2$1@12edcd21, 6=Main$2$1@34c45dca, 7=Main$2$1@52cc8049, 8=Main$2$1@5b6f7412, 9=Main$2$1@27973e9b}
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{cannot send a message which is empty, pid: 9 }
+connected IP: localhost
+{1=Main$2$1@2f4d3709}
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{cannot send a message which is empty, pid: 1 }
+connected IP: localhost
+{1=Main$2$1@2f4d3709, 2=Main$2$1@4e50df2e}
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{cannot send a message which is empty, pid: 2 }
+connected IP: localhost
+{1=Main$2$1@2f4d3709, 2=Main$2$1@4e50df2e, 3=Main$2$1@1d81eb93}
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{cannot send a message which is empty, pid: 3 }
+connected IP: localhost
+{1=Main$2$1@2f4d3709, 2=Main$2$1@4e50df2e, 3=Main$2$1@1d81eb93, 4=Main$2$1@7291c18f}
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{cannot send a message which is empty, pid: 4 }
+connected IP: localhost
+{1=Main$2$1@2f4d3709, 2=Main$2$1@4e50df2e, 3=Main$2$1@1d81eb93, 4=Main$2$1@7291c18f, 5=Main$2$1@34a245ab}
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{cannot send a message which is empty, pid: 5 }
+connected IP: localhost
+{1=Main$2$1@2f4d3709, 2=Main$2$1@4e50df2e, 3=Main$2$1@1d81eb93, 4=Main$2$1@7291c18f, 5=Main$2$1@34a245ab, 6=Main$2$1@7cc355be}
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{cannot send a message which is empty, pid: 6 }
+connected IP: localhost
+{1=Main$2$1@2f4d3709, 2=Main$2$1@4e50df2e, 3=Main$2$1@1d81eb93, 4=Main$2$1@7291c18f, 5=Main$2$1@34a245ab, 6=Main$2$1@7cc355be, 7=Main$2$1@6e8cf4c6}
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{cannot send a message which is empty, pid: 7 }
+connected IP: localhost
+{1=Main$2$1@2f4d3709, 2=Main$2$1@4e50df2e, 3=Main$2$1@1d81eb93, 4=Main$2$1@7291c18f, 5=Main$2$1@34a245ab, 6=Main$2$1@7cc355be, 7=Main$2$1@6e8cf4c6, 8=Main$2$1@12edcd21}
+connected IP: localhost
+{1=Main$2$1@34a245ab}
+connected IP: localhost
+{1=Main$2$1@7aec35a}
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{cannot send a message which is empty, pid: 1 }
+connected IP: localhost
+{1=Main$2$1@7aec35a, 2=Main$2$1@67424e82}
+connected IP: localhost
+{1=Main$2$1@34a245ab}
+connected IP: localhost
+{1=Main$2$1@7aec35a}
+connected IP: localhost
+{1=Main$2$1@7aec35a, 2=Main$2$1@67424e82}
+connected IP: localhost
+{1=Main$2$1@7aec35a, 2=Main$2$1@67424e82, 3=Main$2$1@42110406}
+connected IP: localhost
+{1=Main$2$1@2f4d3709}
+connected IP: localhost
+{1=Main$2$1@34a245ab}
+connected IP: localhost
+{1=Main$2$1@34a245ab}
+connected IP: localhost
+{1=Main$2$1@34a245ab, 2=Main$2$1@7cc355be}
+connected IP: localhost
+{1=Main$2$1@34a245ab, 2=Main$2$1@7cc355be, 3=Main$2$1@6e8cf4c6}
+connected IP: localhost
+{1=Main$2$1@7aec35a}
+connected IP: localhost
+{1=Main$2$1@7aec35a}
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+java.net.SocketException: Socket is closed
+connected IP: localhost
+{2=Main$2$1@67424e82}
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 2 }
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 2 }
+java.net.SocketException: Socket is closed
+connected IP: localhost
+{3=Main$2$1@42110406}
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 3 }
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 3 }
+java.net.SocketException: Socket is closed
+connected IP: localhost
+{1=Main$2$1@7aec35a}
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+java.net.SocketException: Socket is closed
+connected IP: localhost
+{1=Main$2$1@7291c18f}
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+java.net.SocketException: Socket is closed
+connected IP: localhost
+{2=Main$2$1@34a245ab}
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 2 }
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 2 }
+java.net.SocketException: Socket is closed
+connected IP: localhost
+{3=Main$2$1@7cc355be}
+connected IP: localhost
+{1=Main$2$1@34a245ab}
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+java.net.SocketException: Socket is closed
+connected IP: localhost
+{2=Main$2$1@7cc355be}
+connected IP: localhost
+{2=Main$2$1@7cc355be, 3=Main$2$1@6e8cf4c6}
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 2 }
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 2 }
+java.net.SocketException: Socket is closed
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 3 }
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 3 }
+java.net.SocketException: Socket is closed
+connected IP: localhost
+{4=Main$2$1@12edcd21}
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 4 }
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 4 }
+java.net.SocketException: Socket is closed
+connected IP: localhost
+{1=Main$2$1@34a245ab}
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+java.net.SocketException: Socket is closed
+connected IP: localhost
+{2=Main$2$1@7cc355be}
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 2 }
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 2 }
+java.net.SocketException: Socket is closed
+connected IP: localhost
+{3=Main$2$1@6e8cf4c6}
+connected IP: localhost
+{3=Main$2$1@6e8cf4c6, 4=Main$2$1@12edcd21}
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 4 }
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 4 }
+java.net.SocketException: Socket is closed
+connected IP: localhost
+{3=Main$2$1@6e8cf4c6, 5=Main$2$1@34c45dca}
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 5 }
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 5 }
+java.net.SocketException: Socket is closed
+connected IP: localhost
+{3=Main$2$1@6e8cf4c6, 6=Main$2$1@52cc8049}
+connected IP: localhost
+{1=Main$1$1@277050dc}
+connected IP: localhost
+{1=Main$1$1@1d81eb93}
+connected IP: localhost
+{1=Main$1$1@1d81eb93, 2=Main$1$1@7291c18f}
+connected IP: localhost
+{1=Main$1$1@1d81eb93, 2=Main$1$1@7291c18f, 3=Main$1$1@34a245ab}
+connected IP: localhost
+{1=Main$1$1@4e50df2e}
+connected IP: localhost
+{1=Main$1$1@277050dc}
+connected IP: localhost
+{1=Main$1$1@277050dc, 2=Main$1$1@5c29bfd}
+connected IP: localhost
+{1=Main$1$1@277050dc}
+connected IP: localhost
+{1=Main$1$1@277050dc, 2=Main$1$1@5c29bfd}
+connected IP: localhost
+{1=Main$1$1@277050dc}
+connected IP: localhost
+{1=Main$1$1@277050dc, 2=Main$1$1@5c29bfd}
+connected IP: localhost
+{1=Main$1$1@277050dc, 2=Main$1$1@5c29bfd, 3=Main$1$1@7aec35a}
+connected IP: localhost
+{1=Main$1$1@277050dc, 2=Main$1$1@5c29bfd, 3=Main$1$1@7aec35a, 4=Main$1$1@67424e82}
+connected IP: localhost
+{1=Main$1$1@277050dc, 2=Main$1$1@5c29bfd, 3=Main$1$1@7aec35a, 4=Main$1$1@67424e82, 5=Main$1$1@42110406}
+connected IP: localhost
+{1=Main$1$1@277050dc, 2=Main$1$1@5c29bfd, 3=Main$1$1@7aec35a, 4=Main$1$1@67424e82, 5=Main$1$1@42110406, 6=Main$1$1@531d72ca}
+connected IP: localhost
+{1=Main$1$1@277050dc, 2=Main$1$1@5c29bfd, 3=Main$1$1@7aec35a, 4=Main$1$1@67424e82, 5=Main$1$1@42110406, 6=Main$1$1@531d72ca, 7=Main$1$1@22d8cfe0}
+connected IP: localhost
+{1=Main$1$1@277050dc, 2=Main$1$1@5c29bfd, 3=Main$1$1@7aec35a, 4=Main$1$1@67424e82, 5=Main$1$1@42110406, 6=Main$1$1@531d72ca, 7=Main$1$1@22d8cfe0, 8=Main$1$1@579bb367}
+connected IP: localhost
+{1=Main$1$1@277050dc, 2=Main$1$1@5c29bfd, 3=Main$1$1@7aec35a, 4=Main$1$1@67424e82, 5=Main$1$1@42110406, 6=Main$1$1@531d72ca, 7=Main$1$1@22d8cfe0, 8=Main$1$1@579bb367, 9=Main$1$1@1de0aca6}
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 9 }
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 9 }
+java.net.SocketException: Socket is closed
+connected IP: localhost
+{1=Main$1$1@277050dc}
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+java.net.SocketException: Socket is closed
+connected IP: localhost
+{2=Main$1$1@5c29bfd}
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 2 }
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 2 }
+java.net.SocketException: Socket is closed
+connected IP: localhost
+{3=Main$1$1@7aec35a}
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 3 }
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 3 }
+java.net.SocketException: Socket is closed
+connected IP: localhost
+{1=Main$1$1@34a245ab}
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+java.net.SocketException: Socket is closed
+connected IP: localhost
+{1=Main$1$1@34a245ab}
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+java.net.SocketException: Socket is closed
+connected IP: localhost
+{2=Main$1$1@7cc355be}
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 2 }
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 2 }
+java.net.SocketException: Socket is closed
+connected IP: localhost
+{3=Main$1$1@6e8cf4c6}
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 3 }
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 3 }
+java.net.SocketException: Socket is closed
+connected IP: localhost
+{1=Main$1$1@7291c18f}
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+java.net.SocketException: Socket is closed
+connected IP: localhost
+{1=Main$1$1@34a245ab}
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+java.net.SocketException: Socket is closed
+2020-11-09 23:19:12
+connected IP: localhost
+2020-11-09 23:19:12
+{1=Main$1$1@6e2c634b}
+2020-11-09 23:19:13
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+2020-11-09 23:19:13
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+2020-11-09 23:19:13
+java.net.SocketException: Socket is closed
+[2020-11-09 23:20:13]
+connected IP: localhost
+[2020-11-09 23:20:13]
+{1=Main$1$1@433c675d}
+[2020-11-09 23:20:14]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+[2020-11-09 23:20:14]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+[2020-11-09 23:20:14]
+java.net.SocketException: Socket is closed
+[2020-11-10 18:04:35]
+connected IP: localhost
+[2020-11-10 18:04:35]
+{1=Main$1$1@49097b5d}
+[2020-11-10 18:04:35]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+[2020-11-10 18:04:35]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+[2020-11-10 18:04:35]
+java.net.SocketException: Socket is closed
+[2020-11-10 19:54:16]
+connected IP: localhost
+[2020-11-10 19:54:16]
+{1=Main$1$1@1ed6993a}
+[2020-11-10 19:54:54]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+[2020-11-10 19:54:54]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+[2020-11-10 19:54:55]
+java.net.SocketException: Socket is closed
+[2020-11-10 19:55:02]
+connected IP: localhost
+[2020-11-10 19:55:02]
+{1=Main$1$1@5b80350b}
+[2020-11-10 19:56:14]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+[2020-11-10 19:56:14]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+[2020-11-10 19:56:14]
+java.net.SocketException: Socket is closed
+[2020-11-11 22:59:35]
+connected IP: localhost
+[2020-11-11 22:59:35]
+{1=Main$1$1@1ed6993a}
+[2020-11-11 22:59:36]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiGa79yhqKWDqWq3mzRkw8lJLL0kZ1KD5Y4j2PNRQxLjuXp1fRLVsZOKSbAzX7UnjYqU7PQKz0YBlobq37KcrSG5RILGGWlW+4dPJM0yJ7eGn0kr5dMJaSlJF/HpT3wvSIZ8cvqdtdAf9i4mOD8jgvP7TQaWwqBXSaQ61xlC+pjlxqzNdnZMa6rwYgWsunbYVUMrEv3b/sqWDFu79tTWHw0wW1fSWqq1x+85ViemOZNXBXHis391p6Ex9BHmdQKqsrqOuiiNKVPOeCZObc5QDL4wYuTgSmVHsmm/mpujo4onVPoVbLI8NeYGWnZwzp5PMFGi/uvoS+YyN6gl64mO8vQIDAQAB#2048
+[2020-11-11 23:00:26]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+[2020-11-11 23:00:26]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+[2020-11-11 23:00:26]
+java.net.SocketException: Socket is closed
+[2020-11-11 23:00:32]
+connected IP: localhost
+[2020-11-11 23:00:32]
+{2=Main$1$1@7e32c033}
+[2020-11-11 23:00:38]
+connected IP: localhost
+[2020-11-11 23:00:38]
+{1=Main$1$1@1ed6993a}
+[2020-11-11 23:00:38]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAm/eWfokpp1ujdEv0zMuX6pznyRyktra6qT0p6DVHqRsSFHB4q9cT0KhcJUdIDZjef66LL4T/+peCN6hgIvWUF5l0cc9qryWOs+tS56Tj989dY38/e4+8rdgeMu7q60wh2/UBUAu7fnNwN59/22vj/QONeUjSJ+/lEK/QHT610Hfj8xbCuzXlCIN//UMe/UiFtej6V5zLlUlY4pZN4ja6ssqeYF4R98B5tSPDawf+FfA2Mb0lAJEYxTnifnI7j9ZfUo2uNV4xHjKayBOTVaJpF7pcIv3DP+4l30TaD/AdNT1NYp5I02IsWCIGGvkPlvu6i2j/LVqc2DteGRz5lgaU5QIDAQAB#2048
+[2020-11-11 23:02:38]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+[2020-11-11 23:02:38]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+[2020-11-11 23:03:46]
+connected IP: localhost
+[2020-11-11 23:03:46]
+{1=Main$1$1@1ed6993a}
+[2020-11-11 23:03:50]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhTvgYTSMKcpeYSxEneAN+hVK5Cyo1O3rc6lllHo92YZB0LITvGCufx1Jp/KlVlaI0MEOLDb7kCySvwUiupgalWEia7aQa+ZVNEBlIZ4vls8BqyJ2/PbXmgTWmSEF+lxcOttyTMjDzEf99lyVup3Z07mR7d9rxPy/S4h5YnoIVpDHPi/ftngN1PocttqXItCUqOlpCYMqX4TjU7UU0sny8BLfCRoxsjNFZf/hzUQnAT2OSuWWr8r6flSl3JBgfcvC494z80uqeK4qXstrZucaRBht6cu/tQqDr6FbOq8wC2hry9R1j4dlHHZqJ5bd4G6bZHJKjTyJ2tcg2OVmEz4k3wIDAQAB#2048
+[2020-11-11 23:04:36]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+[2020-11-11 23:04:36]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+[2020-11-11 23:04:36]
+java.net.SocketException: Socket is closed
+[2020-11-11 23:04:41]
+connected IP: localhost
+[2020-11-11 23:04:41]
+{1=Main$1$1@5b80350b}
+[2020-11-11 23:04:45]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnZAEYQpkilbuKUTH8M+uMgSOycatpqrf8Q3BkBXRsvNN6ZMLjLbVeY1XjFfmRubzKOLAz4TfVS7d+5GLryLBCrckMx71bGnD7727WYAaNs+MiMjteBzjdvBVwsAOauJ02TG5KLYde/32Q8xt4j4omFLh11DKKzqdtTuXALsouiLevjfXgOZlD6xlp2MIAZ4EKrLhu+3HywTKeMcXRTVmpmdUD8OYWzJmfE1hgK874fkExuEWloxhqc/f7dWdTLmkhWMiIe7JweLuJtxDwrQr0tMSc6JX5dTAB575njMWGWXZBhDMdCggekymatT7zMCOQCoaWGzShYCusBm2SAjRWwIDAQAB#2048
+[2020-11-11 23:06:04]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+[2020-11-11 23:06:04]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+[2020-11-11 23:06:04]
+java.net.SocketException: Socket is closed
+[2020-11-11 23:06:11]
+connected IP: localhost
+[2020-11-11 23:06:11]
+{2=Main$1$1@5d6f64b1}
+[2020-11-11 23:06:19]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApxIBF7JI26b0HWWy+lmzr6gAQNQ/PYWy+RQn3jurrakYUnOop+JMFodpl8626eLttFlMO2HdjuceXWJYhTFFxhesmFOqz2ecgFFEYymQzlZ5q+SgNh5UWQ4Dx4aHNgTg1VqPusOQ8RS4OF4lz3IJqC1m2S4faEyXpe1qM+TNlOmRd3Ys5i4kgqtGxP58FViBtt0d/eFV2SD1Qp/sqZ257l0+ZHTGgnB/0v1sFGNTA0aboEMxIxUKegtLhGgDT76eiYb3DhA5K6//XklbMrxfBEf34ncbSPwSVYVtdVs0V8hp5M2aCCM8s3VOqwTWdyGABXQKgzKjw2nGiD5GqrCh4QIDAQAB#2048
+[2020-11-11 23:06:47]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 2 }
+[2020-11-11 23:06:47]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 2 }
+[2020-11-11 23:06:47]
+java.net.SocketException: Socket is closed
+[2020-11-11 23:07:41]
+connected IP: localhost
+[2020-11-11 23:07:41]
+{1=Main$1$1@5b80350b}
+[2020-11-11 23:07:46]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtaXZL0TxnKzdkTJDam89lnkoNJ6N4WdeoVkqYnYErv+YlnhPLO8+DHhP5U+lWMqW58n8wh6TtMsdKrG2/0tg9o7X22FOISry9Lzjtv7RDkV0hddTwKcx3dBR4BDowZ4siQDX3ePoBV1ZaiQXTJ/UUCaVx6J7X6n3c4vcZ46RvemxpB2Bo1eWUYgKcq2aLw1/XgViTPsiGjpvIL7ckLsPlRAgcmRrCppZUqrc4EVtT3Nv/Qv+iUlCBk/NfVqdEF9BuDfZy1YU4D7L4JsnIgfNcpL9F1u6rG41KOUM5k71HweetEG6LfyqAuIxYN4vjQaK/Hh7z9nx7D/+u4VOf5mmGQIDAQAB#2048
+[2020-11-11 23:07:56]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+[2020-11-11 23:07:56]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+[2020-11-11 23:08:40]
+connected IP: localhost
+[2020-11-11 23:08:40]
+{1=Main$1$1@1ed6993a}
+[2020-11-11 23:08:44]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsiDtXKH29SMeZc0dbTyp+URTItGfoxOrZPULEbEW6ePrfp3D2Z1YSqw9h5spYsahJnFVWtrtbsnG9Mv0VHw6CvCFh9LJz5YP2BOybSITmZhHotuklDazBWC6wbCCxOqwQyLSHH9qswcEYjr81yk7vRee4c9lwpUjnCFpqrx0O7BiDhtMA+dQmmyFbwR70/Mp/Pl5s4yy78YYcvzRtQOkpDzgk134Zz45ErGJ+kbb2kvlRITfqmk2Clz+AEFCP7KHZ8pNyqqvoko/z1xUUm85FAGDxu0lcKlnzS4BvZdDMKN39bRe5CvzW5QhfXXga4mk94Ld6DOfb2mduU/6555H9QIDAQAB#2048
+[2020-11-11 23:09:49]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+[2020-11-11 23:09:49]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+[2020-11-11 23:09:53]
+connected IP: localhost
+[2020-11-11 23:09:53]
+{1=Main$1$1@1ed6993a}
+[2020-11-11 23:10:02]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAirDKplsH5XbT/Cr97dGjysGD6FVlYIo/Erv9uIsuICWrA3FZa7di1V/naHF9eoV0Wr582i96X19ya3JULu7VXXTY6+mseKOzBHKyuYLdtxf63LlugT4qvlh/NGH36bSnih4okWP2mY4v1x08Om0H7sFL70/AgPMZEKTO7ylf612a64o4kQCiDqSkylLMwxWtu8RIOCw0YJsoGB9YY7FvwSh+2/q586m1vrMUozegfzTWe6Hol0sszxBMR8qhuZ0BIE67AV9+FNX2fqDJML4SSyVP0N5M/2IC/0usTT+1eLS3OUSD53HWLyFYxqyn5Jn30qvX8e5YND6qVXEjvnQujwIDAQAB#2048
+[2020-11-11 23:10:20]
+connected IP: localhost
+[2020-11-11 23:10:27]
+{1=Main$1$1@1ed6993a, 2=Main$1$1@7e32c033}
+[2020-11-11 23:10:27]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+[2020-11-11 23:10:27]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+[2020-11-11 23:10:29]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAovUZkqNqZjXabx1xMq0YiGmNjXLcmKTXanW82SueyO2Uk9S+WGpYraRRmk7QP0VnWV6i/vMC6FaCEItX8FP8v9/AlU2QkZdIlLNuSr9jR6hZBU4A4zfC/OOBobO3JcUEHq8XRGGsT6RWH+yOO3Lfe0xAQhtpCgyh1m1WUWvkv9qRP55u8qFPg/74VfgaRU22/TgR4LR1wCaOUsjgS96c8UIkLQqehldMJ1M+4CwupuVTJgyGQhVrsOk8ApUC5IiSw0qexPe//j2DpMK+5YzpRJnsadKrAwIDEvBHW/ECmY4SpA+YmAKVhzCfs9+XYG/f6EGdDy/A6zyL+u1m0AWwnQIDAQAB#2048
+[2020-11-11 23:12:16]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 2 }
+[2020-11-11 23:12:16]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 2 }
+[2020-11-11 23:12:16]
+java.net.SocketException: Socket is closed
+[2020-11-11 23:12:16]
+java.net.SocketException: Socket is closed
+[2020-11-11 23:12:51]
+connected IP: localhost
+[2020-11-11 23:12:51]
+{1=Main$1$1@5b80350b}
+[2020-11-11 23:12:54]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtzCarSulwxzjqFKdC4NUklpyjX9ukJcrUYYXGP6wu1ACCPc8z4WyNL6HsL+kfNBUccTvkym38DQdcrV9tPWQkYlAHpx+eCuDSpbrX08YxQdk5EuOR1K/4wWhDfpsV4bWt8j/GGkUKnc9CpozhPeAwhbcKoFT7yva+BLJl34n9v3IEEDXC5gDfVZSYreoP45iNZfMxfH6A+GFqJFGp7xi0+weA1oGj29xkM4+rMORmS2eS17FhmINqSPNOZUlb470qJ375mtCFLyS7rFTAOZRH7SafiWW/1EO+fxDX3hO0+rgpMnRitIdjEjAZwq3bjS2GnbyEUSadaMAJzm6nb3ONwIDAQAB#2048
+[2020-11-11 23:14:05]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+[2020-11-11 23:14:05]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+[2020-11-11 23:17:23]
+connected IP: localhost
+[2020-11-11 23:17:23]
+{1=Main$1$1@1ed6993a}
+[2020-11-11 23:17:28]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsfWHh0/5Ol1onQc6LnhglTtqJCBQBdtFy3GQmASiAJCmyaP0Gp+oNVCKOKqa7xm5+Ssb6wEg77alonDelEiz/npq0N6jmq4aFcpEN+5TivCAZK7pWGZrnhoEnwmQORPXN+iwx/BUTfkli/9c8MVqKHy6BWKmBDZpvGWQ7Xv8C7snWZfhlDiNpmjYKYI92mLXWQTUsTysw+uAYeZL8CWZImiyjCsztn5F1c3hBu+nTT2AfC9xLLP4Zc2hS0/ayPMafHZJJNJVwP9vEukcir9/IT6uLvhqZ1aTchHvqA3bIxnDD6NkzKhRR6ATpcaRqJS1SJ7BUWIoU5w9gHT/pe746QIDAQAB#2048
+[2020-11-11 23:18:43]
+connected IP: localhost
+[2020-11-11 23:18:43]
+{1=Main$1$1@1ed6993a, 2=Main$1$1@7e32c033}
+[2020-11-11 23:18:43]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+[2020-11-11 23:18:43]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+[2020-11-11 23:18:47]
+connected IP: localhost
+[2020-11-11 23:18:47]
+{1=Main$1$1@4f2410ac}
+[2020-11-11 23:18:50]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsRB1/r7zAARVoKq42peI3pZIwAr99x/iRlaRxvlbV8EzPwuhgA7KHr3eTJBKaiduLSzn6IZuXvclTXZABPE3rqgw+2+zXDkqx9cqiDES57qJU/v3JA5zZc2nH6Jtg4UHqzITAy8ByguJMeMVica5QD0OZGpCmABR4WpcudrbIz93CVSVVHRYboB31YQy49ToOlscxgiN7kIha+bwfAmddekMwOVV91WYB/TIydv7CFTSTSgRRe1TuSgwULXh7f9PiA5rP6MyHpCFvN1laghwBwMiK5K49S7qfDTcgs2rV6gttEPfKZCQBGo0K7i0b7nJYeW5EhO0+vDInB+l7cSfAQIDAQAB#2048
+[2020-11-11 23:19:40]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+[2020-11-11 23:19:40]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+[2020-11-11 23:19:45]
+connected IP: localhost
+[2020-11-11 23:19:45]
+{1=Main$1$1@49097b5d}
+[2020-11-11 23:19:45]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmHRc3zuWYiV6WVZfaFm5nmXnEBDzDHolmr1gkKNM5Xqch2H4qioR7rngz+NCTJE8w2FnpaTgobHr8HOEwWuztHWNRKpn6ZMb33d0cbA4iEGP95M75/fFlFWPXqw6DXfviGninfR2CrXk2D0em8z4IVbwsCBi58X8F4PeVZ0Y7s6NUKrbss0PmWTYgN6XVZGqUS/u0mo8mjIzZdirs5a0KjBHHSnfRZyGGoz6M8IP5elT68gfpHOGwD+z/FL3CaOjtiZoAYv0uHYkK7K0wZL0mdYWBPbF20uTeaFiqWw3iysl1z3aWZXTSbuGHwEIBs34mT0w9EbGaFVE9oWWTu/SCQIDAQAB#2048
+[2020-11-11 23:19:45]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+[2020-11-11 23:19:45]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+[2020-11-11 23:19:45]
+java.net.SocketException: Socket is closed
+[2020-11-11 23:20:56]
+connected IP: localhost
+[2020-11-11 23:20:56]
+{1=Main$1$1@49097b5d}
+[2020-11-11 23:20:57]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqLQrjMN1amJkYt5P8mTMF1gAddLxA5yfFDNM3vkE8aoa+KsL/dI4izcdDobLO4sqGZ3XtI+7LtbsrF1N3HekP9bDjTSIxY5llimbRMQVThh1Ugkz4krGTFqK2K777x5HtgNXfTtjnI4NGLGqkzbPQTCa08ngcML7ueoPEGoSm19xOyTHFW8JyrR8UuRpIYJhW4i+yEtqZhdbmpwbszrTO9q2mlan4tsjCjTwumng+fI298L4celgM0Hp8C8EXTIVh8JQtPHShXIsT0Xl48NT74bXMETMjyucW02RmQ7xK1Sh12TA4u0pBJjB/4t+2FWzxTXY3O6S3SGXXqXtUEtj4QIDAQAB#2048
+[2020-11-11 23:20:57]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+[2020-11-11 23:20:57]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+[2020-11-11 23:20:57]
+java.net.SocketException: Socket is closed
+[2020-11-11 23:21:35]
+connected IP: localhost
+[2020-11-11 23:21:35]
+{2=Main$1$1@6e2c634b}
+[2020-11-11 23:21:36]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArTxf61QvnEastwd4Wu5E80SdFOSlm0yavAdECAgwAuF+RYRdGDuyKzKwcd1yZXkibByS/GOzswOAFglMW63/jypfBsNkRTXCjAJD3fe5EXM2GM+t2yR8aSY8ilMX9Eeq7cvN4g9iO4DGL0N8SU5TC/m4HTbN11cUSA7AbaZsn6Pr/DW5tebMG72pM9ukYSe85qLQswh9iTu2rZayFNLqBByiLLGS88+CfcnvZbkGz1111y0Uj6hioFa03SJa/ek1WKfFV0SiY1XcJ5PYcZrzOslstdNRtZURqhmKRahdjBrYhk6jGyNrGq2zFe3AERHLcY9oVDUpMbCFcrpE0rSlBwIDAQAB#2048
+[2020-11-11 23:21:36]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 2 }
+[2020-11-11 23:21:36]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 2 }
+[2020-11-11 23:21:36]
+java.net.SocketException: Socket is closed
+[2020-11-11 23:22:02]
+connected IP: localhost
+[2020-11-11 23:22:02]
+{3=Main$1$1@37a71e93}
+[2020-11-11 23:22:02]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvrDi90zX0ocClCtRWS869/FIvfDYar8ojQDPUwPbcQrYBv0+zp9nX36i7lQjpr8MNEoDk01D+AWpB5QAPdorZZDLNodheqBRXoATE/NiS1PHGa690Hun8hxSY2KBa4ZP3VgIBKyAIA8GH9wVSyM0kYq5J7zYbHTw6dm/k018Zj7CaWG76eAC6t2PAR5q3ywLMrEkDp7vEel5QsJd5s2DECyv57q+XFxOw/FHoIps6h14K7OsBsGDeRPoiNK9Fz1zypru3+xgpEoPXlsjnIL90Om3jsqqlczK4eI10nByttmKaty6mNNL27nFq4zMczvd6XeS4pM2hip6M0NtOO6a4QIDAQAB#2048
+[2020-11-11 23:22:02]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 3 }
+[2020-11-11 23:22:02]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 3 }
+[2020-11-11 23:22:02]
+java.net.SocketException: Socket is closed
+[2020-11-11 23:23:42]
+connected IP: localhost
+[2020-11-11 23:23:42]
+{4=Main$1$1@7e6cbb7a}
+[2020-11-11 23:23:42]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjA0A7d7LzWza84FOIb46NKhfxg6rE5xDjcO8vK/3QM6Oeau7kSDWjiosGtZOeYM6zRaJbQOMLF8JK5AbrQAZN9lzcsTOj6oTJKvehuGyNa3qzaPd5fce+UpsaWlygQL9V8arFLnkSyoqr9ZaM1hiA4YHvTobLlmy4N/lbp32RqOUFjoc8uYEWSzTt6kD7yyeNDH7bFvtOkoTYBFFwk74zqYaWYcwEdSAn6NM+FTtakRcMmCKefxHEqJX16QSixaDna5FkkTNJjjN8R3wMTt7ry8Vit2V651IkVaF7PQGPy7A6Npdk+a3yHZ8lz9N3A+aJL7AxnnvB07eu7kevq8stQIDAQAB#2048
+[2020-11-11 23:23:42]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 4 }
+[2020-11-11 23:23:42]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 4 }
+[2020-11-11 23:23:42]
+java.net.SocketException: Socket is closed
+[2020-11-11 23:24:24]
+connected IP: localhost
+[2020-11-11 23:24:24]
+{5=Main$1$1@7c3df479}
+[2020-11-11 23:24:24]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAij3bBZLNMbLB7kJb7Izq55+pfY8m5qyQCZMeZa2ghdzt2S5EczzgGx78QD+XcE2uULRy9G8SOL84B4YbxrAU0RBuhQqV4f3bbZzCZM20qPZNO0SzyxfqlXqF1JGn5/cvEMPZ28b6tAyrZZ18bsEdUT8AkASWjr9cTg/ifO0HkjNaPB0IrkdQTLmK6/eQ2x0cpXHXX6AAGuLA8PPO9lYCgZzU5AoreCnv47KoOESmqnHhAL0tZP2WZFhwkEPTtNOG5MR1LHIxK3HYcNjJQ88cuv4+euyQD+BzPRsnRfDnoalJgEeeumfYuChMMFlr8obAV9EFfGJm2vAjmcBgct5ZxQIDAQAB#2048
+[2020-11-11 23:28:01]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 5 }
+[2020-11-11 23:28:01]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 5 }
+[2020-11-11 23:28:01]
+java.net.SocketException: Socket is closed
+[2020-11-11 23:28:08]
+connected IP: localhost
+[2020-11-11 23:28:08]
+{6=Main$1$1@7106e68e}
+[2020-11-11 23:28:08]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs8MGNyMNe7+amXvyGHhf/ILbYrK09QDhV0V9veBycTI5G2ApVM5zIRTq/shtRObTXKuGNdWMX9+zuv6RXVuGdENX5fa3vyUF4B8Rk5dHWwWy0FfrrcxuJeeu3hEnlNn9iIcFHhSBqpszoIBQ/+wFT7YVKU5HNigzrmZvvPLMNMb+py2h5hFbUULk7mJkHK/m4Ohv8hPubMLNZ+C79zhLb6iOp1TIG64lC3RJkxQpf8IQSlv6cteddA0UeXH2U5bQdASbmK04v/LtFg9G6Bl3dLDMzDBwEtTuXUCKSJQ7zlb6wr9Q6dIz3fUyRYEP97yo1l/sDB2KjZqDfBNi6i+YQwIDAQAB#2048
+[2020-11-11 23:28:08]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 6 }
+[2020-11-11 23:28:08]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 6 }
+[2020-11-11 23:28:08]
+java.net.SocketException: Socket is closed
+[2020-11-11 23:31:43]
+connected IP: localhost
+[2020-11-11 23:31:43]
+{7=Main$1$1@7eda2dbb}
+[2020-11-11 23:31:43]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgHTZiv8CVE2sECdH2WKlHjlUMsuWWkAAyeyJhgvljbCKoU1idn8bjrfxEgJP6SDXCa3M7FOiJqmqP6HHUb93MC0Yo7vaeIn87cq8I4d1X7gp9OorTaJnxlxL9BpML3DzCskFnCnnSMMMmzz0LqtgiLZx5Y/I2atBVq2PFFOKKTGiB4tLqlTNtNWwuWNtis1zGGp15r46/+Yn8HJi83M5yU19LYbkSDIOBZ2Pe6RODXun1UxWCl5PRAleZ+aDQEth6XuObmiSknK+83yFTOhqgcwZfpHYquxQNw2aZta1ngUZon43f0xhwHll5cEBxrHu5KR5zg5o4m4Yp/5tvG98swIDAQAB#2048
+[2020-11-11 23:31:47]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 7 }
+[2020-11-11 23:31:47]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 7 }
+[2020-11-11 23:31:47]
+java.net.SocketException: Socket is closed
+[2020-11-11 23:31:54]
+connected IP: localhost
+[2020-11-11 23:31:54]
+{8=Main$1$1@6576fe71}
+[2020-11-11 23:31:55]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgiy15s3zg9cCqz3yhxCOMX9AWi62kn+IoicdDBsWPeg50WzxhC3Vne1v+b/EYxUmfJ2zybIQHNiPEiXzyDyDy/sc3out9j8JXLmkeOImjB+EnBmrssFzvi7pnwdQ5M0rZIe6eZkQ5YrIlp/XKhzupHZKHKhTPJde+go/b1s4Wq77zfAv9M9t/ygUGaaX/v8ByFhn0kD1H0lMY7Sf6ENaBSllwnAzmEDWWUbVybWF6UDcD2Sr5ldKl4fowrreIkZx/WXyuyJVl52JOFBBKXMr+B3WQ3XCS/StYc9Xel55cAERDN7GveBskvGp36bhZ/vZDuIgn/ahhD95ABpomFyDbQIDAQAB#2048
+[2020-11-11 23:32:03]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 8 }
+[2020-11-11 23:32:03]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 8 }
+[2020-11-11 23:32:03]
+java.net.SocketException: Socket is closed
+[2020-11-11 23:32:04]
+connected IP: localhost
+[2020-11-11 23:32:04]
+{9=Main$1$1@76fb509a}
+[2020-11-11 23:32:05]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgkENept4Y4g4ZOwPmYw3D14+Unskz5h3yelTMT2JhWmCKpk2UPEzuGjgTRSZFxnyW45umzjfFkTMHz3kyjhBMYlKsQEvn28IdZdey60Is9iPmklxdf7/Z3FBNMlsTlP732dt1QoXhVfjHqIonnJv/6VyBuJj0dVFnoLqe+Ls8E+G0I5pI1QR2fcrb7bE5thwxQ7sAEY5Wup/mBYWBqpkLsN2ZJ/En4JqkYXUnIfz6BBBfRMpaoE+798MwizmrznwxkZNUMZi6sDjAtC1fyu3hg9OblWdz2gewuWt6R+EgAqGmizvjLqGjh0pXzGZZLQd3Ek41vZw0M9g7npSDUVL2wIDAQAB#2048
+[2020-11-11 23:32:13]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 9 }
+[2020-11-11 23:32:13]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 9 }
+[2020-11-11 23:32:13]
+java.net.SocketException: Socket is closed
+[2020-11-11 23:32:17]
+connected IP: localhost
+[2020-11-11 23:32:17]
+{10=Main$1$1@300ffa5d}
+[2020-11-11 23:32:18]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwWBm/jFzk1SCcDlOYs4hwPKoC+IglD0Okecp813ebv+ajfPr99CEhXf3TkYMka/qasZft6bNfrgBMZhhzQ1ZEbx+mMVL5z75NNI0VPCL2h+VzhfkHi+QuC5S7k7ptltMCODkIlRnw8aGA4QamHdsyx1/5+resxHI72H/kDaxPt7oywH3XfQYRR+vYv08sJXnSFNdICXnLvhDohOOb89QLk2f1Bpo9dZRGoc6mxpZL52dacKoy7fEOxIf4h6dfwmZfyDm8FflzsUOqfY1MHKgLbVIXtcbCUdHR6vrlEezy+G5nSOTpxfZEO1koMKbcEQd4cGzB3ZM8W2S4/s6lW8X5QIDAQAB#2048
+[2020-11-11 23:32:44]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 10 }
+[2020-11-11 23:32:44]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 10 }
+[2020-11-11 23:32:44]
+java.net.SocketException: Socket is closed
+[2020-11-11 23:32:55]
+connected IP: localhost
+[2020-11-11 23:32:55]
+{11=Main$1$1@1f17ae12}
+[2020-11-11 23:32:56]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAl6MzuQI+92emLMI0ah1DY6Evr9AV2o5knAo/UFiRNskv4044LWZrW4bU9upJCrGYnO2njjxJ1ugEoMNoOqtE37MOIe5xHplIEjy1d+QvOjl2JnPs3RY0p5ksVYZW0GZBCqLsOFmH0zeNkjDG73OHu2y/o4dqaJyja5PuQ+u2JS3+FMOQiZLO/Xs7KlzoYHdV7oYIvfYHhTiRcC/CKnkDLA1w/U3ZbrdHT44xUB2et1EIZnyV/95kCxzdzKzbCIK5t2LQaSWJwVZdwKwl6NBj1TM5lawa8lFPpUgbIIUF5Pp0jS4lwATun2/ld6wbETT1Kewpyshi3WeoWO5y9LsmjwIDAQAB#2048
+[2020-11-11 23:33:19]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 11 }
+[2020-11-11 23:33:19]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 11 }
+[2020-11-11 23:33:19]
+java.net.SocketException: Socket is closed
+[2020-11-11 23:40:20]
+connected IP: localhost
+[2020-11-11 23:40:20]
+{1=Main$1$1@49097b5d}
+[2020-11-11 23:40:20]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAowESi0jas4L0fgFRz6QcPtGEMBZe5DgkDh3iuW1mHD+fw/MiknkFNnjA7qKcdzohoOLWnCOMp8Y4Sd5CTHYzdsGSCy5zGqZoqrl0d5bxR16vXdDrAkEgK6HuZ8cvuMptYBFqxPcogx7Ujs7w6vFBIpa8Vkbda5ydGb+rARceMhn53aRjZb8Y/ldTMcqSSZsPLvRGdVqOGXOPJDqzwPlAHZt1YU8/QERnYpwzz/3u8iTkbFB99ZsLnuIsBA3yAMGAB3R8mWwlEEo6BW0OQMD/wdcZH2HcrAi/jiMDS01blMN0x8RrqlJ00sQ/giIDGQ6TciWIehNtpWNy5QOh5jr3aQIDAQAB#2048
+[2020-11-11 23:50:34]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+[2020-11-11 23:50:34]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+[2020-11-11 23:50:34]
+java.net.SocketException: Socket is closed
+[2020-11-11 23:50:42]
+connected IP: localhost
+[2020-11-11 23:50:42]
+{2=Main$1$1@6e2c634b}
+[2020-11-11 23:50:42]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": ""}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgm55pGkDbief8zFLmhw9e9IjD83VXF9O3NEPxVEybzgUv8987PP0cBCQyLJdV7/X3aB7L97cCCf931bBjaSwFP4BEyugWR5lvEmBC3zS8gA81EAJMnYv98djdUlIJjGjxRoFj5xUsqyH6jfGp0CGklZWnuqjr4G0MdD1X6/z0ZLwSaVkm3Y5Xo9X1o0HjE++tPApDh0C/+MfjE/qWBlXnEvCTNucfZy8oZyETk+PAdDqTgqfB/e4NH1T+I0chndq0JNgws+w1L590li/2X6BiJI/8m6htMPOzQXjzBBKJZeTgBo7z+rqZ+GOSkzXT/RL0k81EHA2O6O4RADRodOSxQIDAQAB#2048
+[2020-11-11 23:51:51]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 2 }
+[2020-11-11 23:51:51]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 2 }
+[2020-11-11 23:51:51]
+java.net.SocketException: Socket is closed
+[2020-11-11 23:51:52]
+connected IP: localhost
+[2020-11-11 23:51:52]
+{3=Main$1$1@37a71e93}
+[2020-11-11 23:59:38]
+connected IP: localhost
+[2020-11-11 23:59:38]
+{3=Main$1$1@37a71e93, 4=Main$1$1@7e6cbb7a}
+[2020-11-11 23:59:38]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAk5V6MyQmQF9kb0NhYLNv+AqM5GT56CNOPg2un4+1CQuQe0U5XRYE2gUl84T5M0gAlJbEBlkaJeYA6QyWpOOSoSNfd4zBw1AZhhujFFLmOFggf5BjSGGaI3RcIXDKDxJExIn6ylkfbtyDMwcjO4JpWdI86FcGFO6D9k9tN72x6ZXRDZ7XMYAfjusPitUraOrnbHeh7Lv85XE8PHypOvH0mfqnHW1vgEtg1iJ1F/W9eYhovNQTMde136W2AkEUqqDFgCPpZKWj0Mra6a3WA0uPx+VvzJhfp4MhFhx9jtum6790nkwVQx+Wu0AQP2/S9yIpd5QWRHmUENlTMcp6jBWtgwIDAQAB#2048
+[2020-11-11 23:59:39]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 4 }
+[2020-11-11 23:59:39]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 4 }
+[2020-11-11 23:59:39]
+java.net.SocketException: Socket is closed
+[2020-11-12 19:33:03]
+connected IP: localhost
+[2020-11-12 19:33:03]
+{1=Main$1$1@49097b5d}
+[2020-11-12 19:33:04]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjiPKIUDzfq6t7zGAKJi2q8JpeDdUeKVH7IyAcYbwBLlQQIBmm4QECx4NcZlcyhgfuo+eou0cVSw/MZtKAAdmantqMDogdnn+rowhhVNhrSywionAR1jpNKKWjd3VJug5sHXBC7aQ7Dd3X/6vZRSrazD4LJHreMXq37vYO5tMSr0SgBfP76Ibx8/RYFxBLx0VQzF3xDV6p+2b7mTRUemeAnAVj2rr3hnNn+rSyVEIpPNbOj/FhhM2ty2/pukISHxfDgtXYgMFt2mgZ5xou7QDyAX07aa6ogoIymSp1mA8rZCV6c3KfW8sqXNSWs/mA5hrMY+iAd1b5ZuyE61Hewm29QIDAQAB#2048
+[2020-11-12 19:33:04]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+[2020-11-12 19:33:04]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+[2020-11-12 19:33:04]
+java.net.SocketException: Socket is closed
+[2020-11-12 19:33:38]
+connected IP: localhost
+[2020-11-12 19:33:38]
+{2=Main$1$1@6e2c634b}
+[2020-11-12 19:33:39]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnQ41uqdbHfa6BKcm4JkRH4qrK1tFukz0vjbPks9r9psVw5q5+IT2wBi+HboA8+uW01qqnpUWNpCCz/0hIc2jaCOA7EWqlH5MKYO9r7NzzyOPTlbjGl0VVBCD0A2RRTXG2kFxw3lyKsUsdz31RP5aiMTT48swk335t11u4bw4ahdVo4v29x+ZI+WoUbqkGVuMko6k4NdJcpTKeobuysmbliZzFpLeI5wC2YMY6dJN4FDNnhqhCaP9chRG9tJ5o1xWujL7P9qocAK0fu6o8yH1VLD8JUko7znce2KueTL2KUPC1cLZRCOvgePyYPRKgcqX3RQoby6zQbEBmULFIU6DFwIDAQAB#2048
+[2020-11-12 19:33:50]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 2 }
+[2020-11-12 19:33:50]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 2 }
+[2020-11-12 19:33:50]
+java.net.SocketException: Socket is closed
+[2020-11-12 19:33:52]
+connected IP: localhost
+[2020-11-12 19:33:52]
+{3=Main$1$1@37a71e93}
+[2020-11-12 19:33:52]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgGwymd7Ku5u4QRSaQDXNYIkjzk83N1CFhqY7JEa5U26jtjLxfJ2WVD/RgmzVSVJmMASws1RQHB+3LRFUtGWNNVC/97LfTnJR3XidddiehbsmuOdcvVY49WVi0UQxBlJaMheyfau8FKxgl94llptQ+aSkyKZlmZowMHk/lOVoBFrECt5Iff6MyzjGKUNIw0djsHaLcECbw20yGibJguNuQj/XjbuhpY/k83v17wEz3ttQxMiWueKUmt9c/fXlsruUZlND7gfMi7+OPkF/ZTnZnoWujQ1TTR8W9d6usXyDe4vxECLLgweUWF43InPfRh5Km3Ko1Ls87cYSlkvn5xX3pQIDAQAB#2048
+[2020-11-12 19:36:12]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 3 }
+[2020-11-12 19:36:12]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 3 }
+[2020-11-12 19:36:12]
+java.net.SocketException: Socket is closed
+[2020-11-12 19:36:13]
+connected IP: localhost
+[2020-11-12 19:36:13]
+{4=Main$1$1@7e6cbb7a}
+[2020-11-12 19:36:14]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuvzDApfcFz2Y9YMU2RLI93qRyhLzpvbMkBDSSfXjnCZqKGCcnME1qY6sIqXBf4pNcVheIvD/RvCQptRIXV185ZoPDGT/l2dbTF+o3zUbwZ3JDwHaiAjlLr05WBqGi/nQSnv4ogmw/0BgYKsTyovcjxBt3E2Q86zWPAorXqq5N6xXvXKjeZr45+/IEkXgBW4Kf3QWgLTSAxJHDbYbQw+r5ub+dflQXq4QSs79hE+b3aU5ALCHvl7l/M322t0DsWd/FQnWJj+AxYY3q/Ybzdp0Dh8Lt1lTKUCi5vD3YC6ZzXK2IGkMw1GKpnN1WXKfUM7Czvo86FEUCIHUd+ZUBJn9SwIDAQAB#2048
+[2020-11-12 19:38:57]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 4 }
+[2020-11-12 19:38:57]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 4 }
+[2020-11-12 19:38:57]
+java.net.SocketException: Socket is closed
+[2020-11-12 19:38:59]
+connected IP: localhost
+[2020-11-12 19:38:59]
+{5=Main$1$1@7c3df479}
+[2020-11-12 19:38:59]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkBV6a62gnPQFYuc7lyb6nIBeBpLADqSxSRbKEqGcLjitDBMSLl5Ydy89WfsFVhAH5teHNe7V16HdCaaq+sOXj7Qd96eRIQ9OHf6uQ1LZyyUgBLwRUFGhOHilblE5bLSU5lqYGgaAtZYL0TbV9E37aCf3zE0V6c/gM2cQgrHE4gikr/tGvJpLsb9bdbecHVFsI8Od8jYzTwY8rTXvAMY2C05yrQwHT1xCn54NFh7xJq8xVjRIOJjNr9AN60GoeftMwpJ+0zZR7tJDm4ZwZCp8Q0HcjKRFm4y2vxy3VnYPL64qPEVxGci3BT8jFuL3SGY75+ub3b0zeY4iV2tzJcc1nwIDAQAB#2048
+[2020-11-12 19:50:15]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 5 }
+[2020-11-12 19:50:15]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 5 }
+[2020-11-12 19:50:15]
+java.net.SocketException: Socket is closed
+[2020-11-12 19:50:18]
+connected IP: localhost
+[2020-11-12 19:50:18]
+{6=Main$1$1@7106e68e}
+[2020-11-12 19:50:18]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkMJJSBciPbmkviPdYBF2NFQXBsqQ7mLvCG4nVX+0kGpcDQG20vkMb4gAxUfHbwrxIymSr3FJIZV/NWtwArJ5PbEN6AWtmKO/R98mw4ohLTJC2RIJwfG4jrKV4TmLer1i0ZKhhdJeAzgAlM9JTTCR2W1ftKcBNxqpGiFl0jK/Um3DNex6zATRD1VTqSueZPd0h+pep6fuKHJCUu3QKSHTpiSr2ip3q63jnAH0ROUBUwkno2rJA2fjSmAVP2jCiWcysL6yjHtOApcp2jxWjl9vBfsBw0hpFv59CvUe0alf6fpdsjOxRBRZKZqmVTGDE413lizs48D7Dn9RwrrdhHs0EwIDAQAB#2048
+[2020-11-12 19:50:19]
+PoHh0JQe0aHqOtCccwTQJXp0U1aPf+H2nUX5C6Q+JyuGVt/zdNDWZJrdPsJTYD+Olt4ijJKY0zpVe+1uaAbbKQy3i/K21+eH5K5cTLK1oQX9Gp/Za2o1hZ+UFdsstG2IxWyamhq4ccQvRIMSDdNF0TmwnuOyT6Bn39Xrr/b1vO3GFtKX0E7OEZKTSlRhUuPWP8SVgI4+TNeayaXKcUwDc0BaQYSnPhEbLTypRaHsntPQHugP+DFIgJvsiYt/QgGjGYcE4GTwy880b6BuXprd2ElyMtkqOfR0ay/7ASP4Y/g4kExDhzMRvmWFGYdVzFsGmLyKhiJTb+1laDtTLprRdw==@BgJKdpp7GoDaDILbmOLIMoUhOtKtZCbu4MWYphFLroMK08hIbLiraoCS5fZgQgkHErST2dRm1U/32pItROMICIO4KF+pjPRDPRHWTudnq1kZEBgHdd2jP00bnJCgy3TtUgbWpa+EJPxoO/PaHt7PMjaeIeWr3Fh6JT1NqkG52G1jTI273Doe5OlXlgXDun0tkgXTQg/8K2w0Ix5sP/MBv+QH8gyrng+w/xPWbi8RGaeEhED6+e3ho6GmEX9Jfjmsre6DleTzp6g8nHUHeJ8md9/h7Uvx7GpALvJyqlBYs8Mit2ypcbEdQQVpTTsThflAE6xTp1FyI/9hG3QIuuS1DQ==
+[2020-11-12 19:50:19]
+A
+[2020-11-12 19:57:02]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 6 }
+[2020-11-12 19:57:02]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 6 }
+[2020-11-12 19:57:02]
+java.net.SocketException: Socket is closed
+[2020-11-12 19:57:04]
+connected IP: localhost
+[2020-11-12 19:57:04]
+{7=Main$1$1@7eda2dbb}
+[2020-11-12 19:57:05]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwlP0N57Z/uFqZW3HOc8jSEgm0lXmBnhWx/XxkOO0gq/McO5yBuQqNL92wHhsZ1d5/dBWCUAg7fn6Io6sxv82SZLTgkmxK+ZuXCAAD4+PG5feDOob8gC9tqvWCVpqBpv6SmamFo0QeOLUQNG7hWDUT65RYR3MLVDbalceBQjXLsmIqchs7S4XCfXKvO8USCuNOqNs15AcyVDZQ8BA4/DHABnEFyIvKeLFJmshGdp0tQzJH99j71+wStQWY57YhNfkGas5pIKCFeplODBNsGvaJ/sc9o5lXus+H1+F3Vy3jl7Gr2p8mV9ynvIQ0ME1R53pLRg+JxUaDVaj1+3ygMPrRQIDAQAB#2048
+[2020-11-12 19:58:11]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 7 }
+[2020-11-12 19:58:11]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 7 }
+[2020-11-12 19:58:11]
+java.net.SocketException: Socket is closed
+[2020-11-12 19:58:12]
+connected IP: localhost
+[2020-11-12 19:58:12]
+{8=Main$1$1@6576fe71}
+[2020-11-12 19:58:13]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhssp4qcz7Xt7bK5u+EJBNr7mV0Y7GaJvuJ+uvh/eMM5G6m5ksmcF7wBAh1rRVRFC3hHfM8sLdl88R3lD0/HmEzD9aA0+/YP2axgRuUlMwFBMtaqlLFdgcQX8l6+RMful5kWuG+wIbSY0VdyyVcCKyFtt+CR31COMWSVvERH8YpHVAuQQYNuEpFpDiq/3etkKnUWr5Beuu3iVOHgdGRj3r/JCju4OFMAEl3MqZuSyZdzEhEXo+vTUvGk0fyh5I18OMRQl06XsTe2yCvLSmf7+gWB9kJeZBzWGx/yXLgodQh5EArL0dnfE6uQYGyTxtf6G/lH2OYZ+fw7IQ9WmmuTCwwIDAQAB#2048
+[2020-11-12 19:58:21]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 8 }
+[2020-11-12 19:58:21]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 8 }
+[2020-11-12 19:58:21]
+java.net.SocketException: Socket is closed
+[2020-11-12 19:58:22]
+connected IP: localhost
+[2020-11-12 19:58:22]
+{9=Main$1$1@76fb509a}
+[2020-11-12 19:58:22]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgmlK7ik9ZxHfh7+jSHS+gtoiSuDyUnSQkpWTiuQH1iNq9bhTDkphh7X2tdWAdfknrBKUboH+zCoSfAep8iGnbrZAMOdj8St0/WaGcsR4pWNOW4uT88OAp4VX30Pq/S4V1cfqNswZL908BGOjnNxvgmskMB8gb+ELX1fotGrbJLYOyqSIuiMu1nCaXQseSZ7pMmH+XJtYf08t7q+A8r46EWQSIZhAG8Nx2sXvBqebX6KNxNXi/oTChpKTpsDj0+Pu7ICj/qBXnvi/geARIzv6sQP0Dthvsg9DtGKYBo3a3S0MkqWneUVuzlsXi9uZhCxqUuL0zRwLZ1vBi55+fXWdDwIDAQAB#2048
+[2020-11-12 19:58:33]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 9 }
+[2020-11-12 19:58:33]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 9 }
+[2020-11-12 19:58:33]
+java.net.SocketException: Socket is closed
+[2020-11-12 19:58:34]
+connected IP: localhost
+[2020-11-12 19:58:34]
+{10=Main$1$1@300ffa5d}
+[2020-11-12 19:58:35]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhexlNS27ln5nVSIhPaJjUp30MRbG+YAyfASCT6VyK/JAQigcMf8cALdUEhDjvdA2Tc8v+bQkbsjp5k6twQ/B8R9gRbCZw6gxNXAWICELLEKx/4nOQGam9dBEpHpfIoFZp7WDDhXOH3S638Rn+2s5BozDFLx4GB+zoYvBsUdj9zJSLfcB3dRB1FWk7fpai2xOHYXlS/rjRQXtT5Q00VLPPWnLqJjfP+l6q3NPBezNbcU0bVs/8tPICtLPl7xcMZELF7G00p/3+ry2Yb8hA7WFf2De32XdwKc1XqDvxUz6KU8FdYei3H84RRSwxTtVKFoZ+RVFfcnhlaya9bX8lOvYMQIDAQAB#2048
+[2020-11-12 19:58:58]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 10 }
+[2020-11-12 19:58:58]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 10 }
+[2020-11-12 19:58:58]
+java.net.SocketException: Socket is closed
+[2020-11-12 19:59:00]
+connected IP: localhost
+[2020-11-12 19:59:00]
+{11=Main$1$1@1f17ae12}
+[2020-11-12 19:59:00]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAry7uS1quJX9S90A1p1O2XGVv7FEQ+aY7SOibSJy5f/I1JoxvtTlJg4tJ0I9L5Bun2YAbFuO51yuYTM3JjFiiJgydB/4eYyyADQaMiS0CxyEoKJ+KIc8vhk2tvi9ArqFNgncWLP5kW5Sjf6UrHC3lp+mfhWQ2iL8r4gM+ouDJx0HxG8kZ3Gc2XN1BTC9RwTkpcFhr8tGJBcRh3iYONPZQdu+l3cT+f/gLbcZ7Jsk3Q3DsZxe93vf/fSC2vyy5gjaLGw4rc2Uqd/zw8txz92OsmF1tvLdn4bnTIYJ+fgssS+8GXkyuFDWIY7/SaCI2ksfzaq5pAFwS7IdZefCkAvayUwIDAQAB#2048
+[2020-11-12 19:59:21]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 11 }
+[2020-11-12 19:59:21]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 11 }
+[2020-11-12 19:59:21]
+java.net.SocketException: Socket is closed
+[2020-11-12 19:59:22]
+connected IP: localhost
+[2020-11-12 19:59:22]
+{12=Main$1$1@4d405ef7}
+[2020-11-12 19:59:23]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtBN5L6oJASZdK9o2YmnSHXHSKYAjShmthYcZdqSOnZAgLmvHFbBTUx5FVu2PoNfjguqDuigdYWLUi3EhWoKlQDXQDm7wqj6P4SuK0BH1uVLYWIyt10jpKsZ/yTZhuiwvHD5oaLmUeE9eCSilAFGVUfqm7BwOW+iDxCVbSM5UTDRflLvgg8hhH2TfZ91PxcdXxqC2ncOg5BdM/11dW3CMHDSvtuPx6sSwbdOhfxpad2NOy/WRSn7tBXE8rzxTOcS4+vh8/4c/rlXvnrB9/rxTmGELuCyFyiCSPcr2qJSk7qJYuagiT+sVXI+7ov0PsLCzg54HBnUZpYIjPJj13e+29QIDAQAB#2048
+[2020-11-12 19:59:51]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 12 }
+[2020-11-12 19:59:51]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 12 }
+[2020-11-12 19:59:51]
+java.net.SocketException: Socket is closed
+[2020-11-12 19:59:53]
+connected IP: localhost
+[2020-11-12 19:59:53]
+{13=Main$1$1@6193b845}
+[2020-11-12 19:59:53]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1cJ2oAb3VGonrAoB6K4jfAAXAynhx6QTHFampdrhnaKXzHg8LyRmoEXJ160RMapb6phyV64OVEmrdqo+3DB4FgSUB+ru7lBZiSOZa5TgdU3jrLSE6aqHY3Yzg06Xt2ZiL53v+uzV4Dzjv3+r2gA4UPRZ1lcli7uLH2NfX4gYglt6ahxTLyatsrAXLvqduyGDyRKmAkES/7PGlk2I+F7YpjjGYqUdo/1rnwMbA8Lid91cj6mzjCSn/2aFNyNhvD1W2ZkaVfI/dKcYkTTabjBHvnokvU3YmO8rFryaPxGwJIBojtp9noliAsOsd5hX3ktZZUs197E1Qjcpm80/5jDoFQIDAQAB#2048
+[2020-11-12 20:02:47]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 13 }
+[2020-11-12 20:02:47]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 13 }
+[2020-11-12 20:02:47]
+java.net.SocketException: Socket is closed
+[2020-11-12 20:02:49]
+connected IP: localhost
+[2020-11-12 20:02:49]
+{14=Main$1$1@2e817b38}
+[2020-11-12 20:02:50]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnOZCLRyfJkFCvH+GZy7/wBOSdCHV2pqSSv30SgDF+zkJu854CMKeJqRPGd7d7hirh6F7hzVIwxLNZB1eGvGfoWoUBj6ovPZLk3KneMvaczeH2Tq93EgjsREaaxSz9t7tYpmCNddnwDtZxotKMR5nJ2D8FKh+ja7nv3eY/N6j1Y7RR/0461WQo4ThXsb7Dkl2AfgVVd0iKcjyfQHzC3EINmPTk8dzJa5+7hBpBQhIV04UaZKwCGp+805XQNkxMChPPkLJvRrb6Qo62KeNFnBTcsAvVcQGkYmRCCVzUD4sUP/8YFNCvipRqUznGqXyWPI6HtAMiySsFsfXbQvdzZNVPwIDAQAB#2048
+[2020-11-12 20:02:50]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 14 }
+[2020-11-12 20:02:50]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 14 }
+[2020-11-12 20:02:50]
+java.net.SocketException: Socket is closed
+[2020-11-12 20:03:03]
+connected IP: localhost
+[2020-11-12 20:03:03]
+{15=Main$1$1@c4437c4}
+[2020-11-12 20:03:03]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAg3dRpWdC7+dogmOaNZQqByyjLRPAg+/VBwkey+8z0cx51XHLhXYf6Ie3gB/tvNqlJu01bxCJ5wOrp+0HqdT4owzkGX6fwOycMK0F24aXB5cgVjEN371bRF8LkS6zmkAWFwXumarNCLrMScCdbtMDr1e2i28T+BEaXs4lbspsvgzFCOt/Pn+T+paN5cd2THx69FkoRVsRtt7MSekh3toedWpYsA/g9ipgxRtEg1DfBpm79X3I95uO5mQL/KhGsjTLYV2R5LJGwFE3OXafybKBvD/mEmtCD2IzbGgoiivxCeczykHdGmhYng+I/5MQnskCSKGkZULjICZHO6Kf4JwH5wIDAQAB#2048
+[2020-11-12 20:03:03]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 15 }
+[2020-11-12 20:03:03]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 15 }
+[2020-11-12 20:03:03]
+java.net.SocketException: Socket is closed
+[2020-11-12 20:10:02]
+connected IP: localhost
+[2020-11-12 20:10:02]
+{16=Main$1$1@433c675d}
+[2020-11-12 20:10:03]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgvKuecKgCEFYd0OK4dbUCPnxKYqUoWMAbOv8KQUYLIKlrVQFPKSyTER+EWbd5P0x5+U3b7ENGA11X8cJ3dfwFAakyVd6nrYiDxafzCsyN5UnCufbQAqCct6fSOGGP1pMAlknj9lhWV45Y1iDDLRnTv4yORPzM9oQ73e7XVCWZ5KY2ii/jo/kzP0KDZo+JnEGPjI+LaY50+iLYQCs3RAh+rok/TcAFCFIO70s46qbHOc5HeX2YyRiK/enMq5vP5WdATHpaJxzbxbCnRvWPBZUgxIiSF4+w1gX4sisrCN68mlw6Pw4w8bZgucD48TJodlwh6tt4kk0kjijAJhEYUmHFwIDAQAB#2048
+[2020-11-12 20:10:03]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 16 }
+[2020-11-12 20:10:03]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 16 }
+[2020-11-12 20:10:03]
+java.net.SocketException: Socket is closed
+[2020-11-12 20:11:51]
+connected IP: localhost
+[2020-11-12 20:11:51]
+{17=Main$1$1@3f91beef}
+[2020-11-12 20:11:51]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzkbneB/2ywxjqGy6zvSAQBUk2AtuxpCST1zlCxgUFMCgq4tlXPnN7rCChgyAot9HeoNkLuC9Gxc2WQ/Ii/kV6x1ktraYiQ+DfmqCNODjPGqfeMvyXS5og5k9IQNO/BojHPhmLCNTopL7a24zvWayCdJWL3WZylOYTmYmyEDpyfERRis/RCzdKudmLHdb0TSaZnyHq+QKAMu0x6O7zrdeZV00Tkn7EX96ipoUglC99GGX61/6hxRMe/F/NJjwYvz50LveqqVinfnu74zftO/VeJKY3IHMtR9+rmiUQ5RUnW+oqIgHRxAVQb29KeUzsMNh5XT56tfqoCLbDT8nTOZyqQIDAQAB#2048
+[2020-11-12 20:11:51]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 17 }
+[2020-11-12 20:11:51]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 17 }
+[2020-11-12 20:11:51]
+java.net.SocketException: Socket is closed
+[2020-11-12 20:12:08]
+connected IP: localhost
+[2020-11-12 20:12:08]
+{18=Main$1$1@1a6c5a9e}
+[2020-11-12 20:12:09]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAovYaAfFtB0/XLpx8CUDTWTAD47NaFfEA95cNzhyhn/Pp/mXWnHYfySKmkjhOmHzp29Dp0kmObbcfhThpZbPUsh9sTtsauZ0ma4wurjrArPYG+PeP5WE+X/eKgBfnTcgfOT98w8KSW43/S5xmGxHcFfvA3VT+hrZfalGPYohKU2nUkiB1fDTWs0lTh2LHyiOt+gHcoq1lMCglgcoyx6CnzMIR9Og2QCAuSDYHFgmfVMlOQFvqi5izGjtQhp1+TLpqgcLYVfrQD35a8hGFyIo5FK46Jb202CJOuiknETMoWe3lOuNtmaTQXU7PJa2qrWE9maoVcmAKfwqHm4Q+6V2UtwIDAQAB#2048
+[2020-11-12 20:12:09]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 18 }
+[2020-11-12 20:12:09]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 18 }
+[2020-11-12 20:12:09]
+java.net.SocketException: Socket is closed
+[2020-11-12 20:12:28]
+connected IP: localhost
+[2020-11-12 20:12:28]
+{19=Main$1$1@37bba400}
+[2020-11-12 20:12:29]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhZ7b/r+7V3Dt8T3PiJxYO18mScxIaSkCj9oXk52n5CV1xAPwxwgAC+HgrqAvKXR/qjFlprW4tjsTPBD6tPuY6QzXF0OcQ6ns+vocSeL6c19n3z4RgkZPjs/5xGvt/EneaxMyeADG5tXu/yftNLILtG4A220jG0ubvvd3Zyyqwz+PsAh+6zrRIzkvwnKPwXbWDLA0WulFdORWsN2B21CKA2EVbv+3aMeoC7aJ7vco++0GSvt1fJbZLNJ8HfyEOobd+C0k7abQu0SZK40z6Dz0bGUao3970emoa4rRW7RGpTZ4m6G/tBuQeZ1xGOSMiVENd7h98YP6BYivXgphAJR2IQIDAQAB#2048
+[2020-11-12 20:12:29]
+fgU3kZI0fWdPnzf3Z1lEq/YbWGVCUZ//KZtuRVbdoHEEyYvNeYsyrKuncv1RCDOJjFxQVVthm1Zs6ZLaXC4L1zv0l5E8kJgAmZXZxoCjYN6oCYxPIXNQ3Z7W4APRc6Mi5h6+HQnM/hS5wOOivAfEN8kzA6yyzSTReAuoBWm3GYIJ341XDxBvtbGBzmdveVfkXIx8d0LxD/2F92PdUtZeAq+fzsohklGBhXd+wghfL5YVHvTZETfpdTnbyaw2Kk1kGBgHM9rYABRQyjVkybcJ/TGWxZP6WpM6P/xOCnX1WIudU4jqQ0RMULKWdewvOwTZO+fhjiULp15Jznbz5iLWZw==@AqzkWWQrdRjhhG8qVLjmj9Yovb/KQAUtKW5bbvnV22FI0M5H1PX8Kk7dnI/3azV6/NNQ+sHzD2YwYj2EunMDWpaxbsTzqyWflBpQ20VjLzvyAfb9KeMTkK8jnZm2zsWC5uYLcAIkXpmxiWMW5Jst6YD1F4qLML2EPShAPaiQEZ5IM2XFVPP1efGl4+3ns+K/eBh+bADYYSOIRfQFGtDFHx+PYZ7U4CFSh6EEKi681qW1OW6astcRUSSCeWkiVsdGxwzxQ4iJOUa3wuuuuiVlum5DGHeTceawhGYlGL564iMn32upjzyflzG/hVatIo4lJwgr1bZ08X5z9EzCS6CTVg==
+[2020-11-12 20:12:29]
+A
+[2020-11-12 20:12:46]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 19 }
+[2020-11-12 20:12:46]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 19 }
+[2020-11-12 20:12:46]
+java.net.SocketException: Socket is closed
+[2020-11-12 20:12:48]
+connected IP: localhost
+[2020-11-12 20:12:48]
+{20=Main$1$1@5d099f62}
+[2020-11-12 20:12:48]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApWAwAQMhiPEu41tFfFqMd9bsvynieGDEdEzhcMv2k0tLloVHqcfhxIbfscTypBi5+T5DF1mc2l4jX1C8ZfmvPmK+4zz7ZWKAcBMT7aLRMZxbHYLbpp7PSKxyeZnUyrBEbw8pSih+KhtymnSkQL6KjAEWyyDrEP1wuhwNKJFycI4hgd025IQ3tJU9u9E4k2X6zerA+/LWjrvCyS/uUzd6dQ8ad0GYW0oy2NOaS8zdhnBhjStgNNvx2L3DhDtUtk59DVthl3PPjphdF8dGEeqffAK1MmmiH8ALbSHOLhL0U9qWuVqGJ+uc4RUFNvYQgntJijgjMl+Byw90giJecJef9QIDAQAB#2048
+[2020-11-12 20:12:48]
+ZWp+BnLAVcA+8shMZj1YcYyxl+N6raAcrZAbRCYk67p7HJ0i5Fli7nDzxvyvcoQ5LQLSBT+k7s48O3fsDkbFiCYHcyi/qqG82zPekPJkKMA+Gjosl5p9udIgfjQHUEUEmEoLoSjzuDkndz5DhwafHCnr2Yg0MDpwhsi34+5TJvexEmFCG6xO3XFUnb0n+Q4f5HYVBwRC5JhS6Dxpztm3rMAwd73zQaUjabLCzSpq/0/mU82ckICRQqU3uuQYhRFJf44ZwznXnrDqIlXx3iZG0A88MrKMkZc6cm7vR53Je2wMmrDwaV86T8FSH3iWYcpXDSEZ1zfQV3lthrRHK2y01Q==@UtB8tnt+eml4lUfBe+6FhldsmjtzYBGj+BSLJWcLOv75o5Ky4XwVP5xCgAkDDrVWic9qQaKceBKWRbMoshD/c2KMVizjRva0f6+hAJbIfKke6qRo9SwMe037e2cvxbGW/JjKJ411BObeuRUqA3MnEsH6xZzCpspRWH8BPHmp/CZFEobITO/8ZrugnohhrSr04J2oV8YXRfbFoa3WbsYNbJAyh4mtTnXOTw631Bu1HKRdOBa08X5LzKZ5y3xO7agyQlwsO3vAxfAfjR0CjmRIod7rIXNnPDmZU7c+hj9rbohYDM1YwpyCXkh/l+YbLuWPkJBKxV0UA9xOfilVKMAKjQ==
+[2020-11-12 20:12:48]
+A
+[2020-11-12 20:12:48]
+eifuOVwQ90uaF5+MOGapeOwoJtwCjVJGW9Q2uWHauFeMemzOLyMp0fzu4gCxw6ZH4/+OPQFz/vjvwSefRw4GZfrOKew5Q/XrfONDo4ivtLZH85CakOTpZ9G6dc6ZO2mc+owrjz3seaRURuIt4XODvGuFL9qerRVZGe1h7DIEj5IQHP1PVYtIgBnR4bLT5FOY5386wrwwUJRK85XoX5mo5Ud7Yk/ux7SP8MBgAyq1vTtriM9kwA2JZa1i1qhxBdC/aY3TO5ZTY2OXAj6KfHBEd0IOZ9jnrreF+HkmLvPPIrlq2uGzOdbAz3J/Bw65rB0dl5YpBsphafx3HD37OpA5qw==@I6V5uecVbbbPTAn0qNTWHIb5Owzn3NTRntx+C5zNeL3Ptutgqew2Cr4aPDsXsFYDll1tBBUImnfts1BAuu/jheCsXlCuj0s2EgOjcot4yn4SvM0HqwCaRdewyJzKHxf33N/vsdteFdgz1uE22AgBH+Ij1ckBzX/v3VYfpS5xF8+hUu5mFiI5DkdV0V0Lrsh00iD5xRsRYPtJv8nVkJvhKN4lw3PkUr95C+7EfTjWrH1LXEe6c3vSg5pNOynvk/H13NFe6GSOG3muahRCBXS/43AHqvkNTL0uw8j5uhvIT4agVNcuU9WxmIPMmIKCqh3Qt5/k0CYjHF8IFgTHvBAwng==
+[2020-11-12 20:12:48]
+B
+[2020-11-12 20:14:09]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 20 }
+[2020-11-12 20:14:09]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 20 }
+[2020-11-12 20:14:09]
+java.net.SocketException: Socket is closed
+[2020-11-12 20:14:30]
+connected IP: localhost
+[2020-11-12 20:14:30]
+{1=Main$1$1@49097b5d}
+[2020-11-12 20:14:30]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArDHTp/PY43OCy50utzMPZ2zMVnCgeNSyiGVupFClXK0QZPc6Bo7br4HJTillErB1bqnR3GlOuEHXejnfUv2MkHqDykoooMAFqdfoPEjrkGvm0qDokE2T0lR9hw2bWM9H5853SGsMdlO/EeQVdwbbxO+JteD1NnhFgoiS74+RNXqljYembWxvzgUQhxJfWmo80E+usX3YVhZPEd1ZKh2oOHbwK2lxTIi4xnzSu04fFVyv1GOy2JtIA/8hnK+0TyKSQbVOmyhqbVDoOKtxZeDc2M6Sotn+dVNFT5QzpLEg4Jmttntv5GjEsFD1YOl9DCc4sTOSpjT7ufmT+j1Gsf8BRQIDAQAB#2048
+[2020-11-12 20:14:30]
+Pap54j5lJndb0YV44y27ieZPoj3Yn3xFFqGYmSHKkqFWTeQGe5nRmPXklKYls+WWqc3lq2nEXV/ZBToQeGY10IEqFGVXYJMvrS4hqY4Ps8kHu92ekRyPGBnxG9l9SxWWS6knizmMREeAvyTkt9wuGbYTZ6yNzKfa/7FJPpLjcOMlaGbH7gd1OwrE2p2jjyhZw0GJGTwjNx3y5hu6tMoJVJONQlc5pvP1cE68R00Nv1wKnWuJOXoGcFfgyk9F6niIqcdq93ybecduWaYSDFEOqpOSvJb/ByJU7v+NSKUjmjkIlWlhgBeKJHXz87U0fup0fD/8YOPaWKXYFqq5y3pLew==@RPM2Od4rnBAdLc9P1ZuB3L3IirS87q2wixrumAZqiXYsm7fxzyMG2Xt8MBNfOEBIPhFpt87jbbaiqwpSZgKGfd/cRoQ+d9j4nx98fEYa4pKI+vlyL4tLVIwA4HeUo6QDenoezXu2HcnexFMZ0gKkTFCCTvIMvQZ75xSY0BcW1i/kfzSfUm7FmJpKI8cb2mWKqRqGYemDyx0KuvnzVjteNrmeYHIMz0DN8BWT9MA4Hip5MylLq/4lhk2BShfP4pVBZ6d2U5qqeOYfp0TzclNj8U0P3pYRDvGITtt1ScH4N6XiKCSETfZz9Do542NFgeFgXDTVQuOsehYAPZ9tmeqONg==
+[2020-11-12 20:14:30]
+A
+[2020-11-12 20:14:30]
+DMMrWzAZUPmHV2bhl2W6TBSNARkUAu17QPR70c5mKLTjX4uTqyLuHUFKdW1324FKMcucCsJNKgmt6w5ZPLWrxHQ/VcQcr3PwJ8yGuQDpGFSjYr4Pgu2pfTFkidjf8KaL2ZUVZdzioZBeKCl4RgdBEbBwgAgcvrjivkp7xr+7lU3ZdtGFBHjm+Gm23KrdytpI2hqnyKOMEjTE9FB/2uMpTz0Odscrjtn+onaYpc7mvDIRKVwQ7tvM8MsfvxK2BwO5RDx0xbYb4MoIa91RBFw31zRdhRjHfD1KKJrPR2JfQewyumbQXdseP6bsXLAV8Sti+2drpuCMLXMIl+Kb8bHg2Q==@n+A20iwybPBmA35lp6oxQuPOn6vXCQTsx9r86r/klbCCK/sZUivmxO6MPyRDENQ98A4umLJ1xm+gwNxdqcC3XdTq1Q0C0FOhHqcMG0my+1WYAKL2WWPpMKqkWw4xLRXGHftETzNsJfrreoibk27xePTofSHjjZeYH1MfqKgsUaGMWRMo/DSlZsEbMWPDKs7P8dwq5qsxf9r854zFktZ00l+TBg50FT4077vQapuSdSeKEMRlZXvTQ0Y05g5e+Sl3aX8NTsNx/R9kLzuxRpI7IIUOV3juFnD2pLeihMqZ5dB822HSrHn2DrLtsD/kdo2bkYfWl9baiMXwxHJc+pavVQ==
+[2020-11-12 20:14:30]
+B
+[2020-11-12 20:16:47]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+[2020-11-12 20:16:47]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+[2020-11-12 20:16:47]
+java.net.SocketException: Socket is closed
+[2020-11-13 23:06:05]
+connected IP: localhost
+[2020-11-13 23:06:05]
+{1=Main$1$1@1f17ae12}
+[2020-11-13 23:06:05]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtkMZrFB7M8RJrX4kSjkoVLNGOdYt5juJ7XKyEK55HV7XRMxJQsLUPZ+jv6fn7w8rYLxnve022PjpweuLzSnU53PPiw7OB77mGbexRgo9EqnM8ID5TwkrJ1vCInuw5znfG2C8ZOnSlEwy2e9xmAmN9fV/bdAR+2G3icD/vDl5nPM3nlqvrRL1EXJSi6U0SxY2JJ06Xc1l1K3toTxXWlB0dr4QpSC5nT+RKtH/UuRtE1FVdnbGuhx0OtsS0cPKnipvIeoyUZ3RhJDgVWzXXLZYfZCa57YtMq5EVQXovrA56nEa+LTp4lSO1AK3IV2PzCR1lhR1SKKLoegsNSxAHFQH1QIDAQAB#2048
+[2020-11-13 23:06:24]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+[2020-11-13 23:06:24]
+class indi.atatc.packages.basics.Basics$AccidentEvents$EmptyMessageError{message is empty, pid 1 }
+[2020-11-13 23:06:25]
+java.net.SocketException: Socket is closed
+[2020-11-13 23:06:27]
+connected IP: localhost
+[2020-11-13 23:06:27]
+{2=Main$1$1@4d405ef7}
+[2020-11-13 23:06:27]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArchrLmkNgiBYS7Km6/OJ69Xxa1N62c8hFeRYqaMYhmLYw2bu8lbWYKIXEA5kf6H03UuABFUQdATOm30GXdiNyHIimJMgoS3hCiJY4a1iMJzLGKKNnX+A3VNviGvQp+Nl6wWYDrVdR9dcEsvAD3yx0RyccNas4I9BWRVCbeNhI+5wPBMqSXWK7zXNiO/fVedqeMa5cd0cextVHOPGWDMDdDSDDDrK4PAgdGfjiAdOOStSPAw9q+0Nk8yZy/FWIWEomgg3Bka0Su652N88DZ15WAMR24jmWS/U5PtslgPrPWHOMnP3OJEaonywMjUtRlwCfHTng5/eyx43cAsgwJ7STQIDAQAB#2048
+[2020-11-13 23:06:27]
+KQuNHEGKXLdk7tm/1KNtP/AUjRccLg4dzyMeV1HvCBA0i25hBdZYHMHRzNpMKNUzVkr1Q7aHuvZqhlzsWXkZ1BY/99kZ6zZv6nLpQdxxUEfVFxZ+7PLH7RMSVKymz+8berMeD+1pYIuDGS/6wz7ljkPUWXHZbDwIjCQgF+R80lHBY6l2g0WwSRS863JB3o+MuiLBdjkL4NoX83Sj0iGJm/xxjLBKAl8W5ueTMMwGgfynNmYNFqFtyXZqV64iait0kuwqb7oBFh3MDW7Uw1uVyOvVZsj83hBRGorp2fYUym01GS6bczY5KKeNd27YFHjjj2LW/50DLpeWdXO7kAlSFw==@MRGhF3GqIv5+BP/V5HL1VgixEToxGWksRmmJoPluc88L2MG7HRTENlxvFsU6WrRaDK5vuS7Plmead42iLHFsnGsfxVWuai9BtIWzkYIbVvq9yEosl3IfOOwTva8x58Y9iMhkMXu42ZCUcxVcezNpQp5nGjN/uecpJLhCnZuv/y55Dv6cSVzWtb+qn4rgYinyYI+nvWuFzuMg+lMyFEIRBHq0sd2YXD/ue493UEojrBcZ6mMOBGilZFcqsQJ/l48SNQNWhATt5QcCu3rj1eB+752Zdiwnzfa/ScA29ZgwbPX3moQnSGMzRggTsRPL6yjqPhv1EHBx5WUojOVvnZjjcw==
+[2020-11-13 23:06:27]
+
+[2020-11-13 23:06:27]
+java.net.SocketException: Socket is closed
+[2020-11-13 23:16:31]
+connected IP: localhost
+[2020-11-13 23:16:31]
+{1=Main$1$1@49097b5d}
+[2020-11-13 23:16:31]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAg3Xsnd4dYWE9AT6DKahvWT1n3xoUQ+qzdnhmbNw5OOm/ktJkbFR166l2EydKHvuDT+Hiays+GTomRH8TpziO8jrWTOntn2Dk+osIq9BgZEveYZb85u+yLZ+yo0lUFtXfZ1f9PJj0Jyq8Hw5hTBzVOU/jgbzUI/WlKGDplql98SP3TddLU0wW5oUx/nADFjinftmv/J7OHC6OuKBV7Dgr97TwX3CHDrwSS2RtgrTeqAqZ0sSjpMT/LLYYAEWgq3IlHL6sfdLuSQ9awu1FrUPx+jeTz0Lw3YEqwWZANJH/tTqIbICrFeZBXKxv/5DdM0h6fbii+MUlvUhIGsaAgvMCDQIDAQAB#2048
+[2020-11-13 23:16:31]
+TLHUQhjLLnGTB7wL75j/ajrxBpOvu4Cojg1WB/uFjS8+vONiY6h+kmhimcME3rZiSegrRhTH6Zrn4uDqM1/WB3tuk745erbF+xFshv45rCiyF5UkIbNXtw1lWc3PF+qxShjYWoCjsg/DU/ltfCj2OQLl3GQv09ZY8UDlZ7EwE0sgVgMkcn2CYpX3Y+BE6B8YVJ3XGzEMDzds0HZZ3DMYR3KklOJbkGcP+BmoIgyJli9BcC4Bx8wIFlUf77rDZbYsiVQBr7H7rkjj2j/IhqOgpjtdCZX9dlvganPWRFmRGVLDiYK3pZ7Wly9GCN73WD61HF3MrNgEuL9jRhqKHFCOjg==@BIHfc5sQzem3XrdBuzDKX0CJqjE4GRJuiagfHaANGwhhjSgpbO95LU2ku37dqdy7eQ0TPN0Xjq/XXkhtTbs2sSOlCWyKj5OFN7R8WMv5hgVFodJuKDRbkgOIOK/sWATnX2vkJ//DON6k/rit40O3wns8arCHgPlggRkDcMTSn8F03/kpaA6wNrDUFDFxeWd7E2RA85z1CXGglK5lho7l5vbzzISeAMdIwo0V/wPbUdiZUIGnNFA/wzEtf2yQsxOZuzIUuikGkR+OXiYzDycgOh/0Ko7Xcjz163uNYUIZEBWkLJTkqhWW1tyIc5RXFH/wLcrF3eZBkxzFr6wldsa6qw==
+[2020-11-13 23:16:31]
+
+[2020-11-13 23:16:31]
+java.net.SocketException: Socket is closed
+[2020-11-13 23:19:48]
+connected IP: localhost
+[2020-11-13 23:19:48]
+{1=Main$1$1@378fd1ac}
+[2020-11-13 23:19:48]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxoS5zsxHG8AayCq9fJzS1h72ChTpEGNqfhWNJnwF9nNoTubjFrpef91E1ZONFRJMhs0Y79+dnFMEOP/2/tnDnONmcSIe/P8KVGZ6Masyv8y61N7/GSp67MC7fXSEXGB1ItUUL19Rb1KAPucB7ximeceLaD0lAdLoK3N3abqXwYm/wLwQy5a6zFy56cHedafPw0S085f7W7UG8OwjTvv+wytA39eUb7aKFwlKX+khMknVNezqcM+w+MO1sA6avpm+Vbykgy+BX8aBksFqkF3IScSalYu1ygRQPgzd/nlFxzmQtpJmNyn/Ag7/EnuYk5r7j6yGrMYNB/hJ6jaTBV0ACwIDAQAB#2048
+[2020-11-13 23:19:49]
+LMKc35lhIi4XXSn96SPwhgD81XK7wbx1Zu/lSDnMuZ1G4gkrzIAVxKVUshIfpo3w+dhWgSmeIQXE4nZVbVtm8FHjfjD5vEEDRl3ehGv79J8SCb8W3ZXpMcPlX15+1uuKQj4ibIUt25T3vIgA81v7qUiX21jviyYK7d9vMCuuITo+I2ktMg5OMSv9jBhAYRSt+i1CHYeFOSNez8m9/KxqkIDlvSs8O7Fw06PE9jxdbYSb5if02hQaK4ZyGN8ybIjnw+nqhrZdk+WGAMHigWG6uLJcK8zaRwm9rx4k4jiI/az9zWlH3pyJh4RB01SkwdXpxZ7vQMz2c95vjP44q2M92w==@ici+vWtwQAF+DGhypWC8Wtbr+Luhz/C2Xm6hNHvFIj/ZkKFc2XovdiAg5+rTmmHmaXYmXdLqIHkUiUl/q9hLW4BnJ7PbTXubEHuOmGW/BRZRtlUKbhbSzvFXZhFVF59pnuwmMr3GxVWREh31Yn45VLPr5l66WuU5awkvGifPUz9yuGxoPOqZy3VxRIH1Gq4v+fFG0d451KBT+EVKgfR44pgFpVWoAR6CHp0BIIqB+lKzNmPk3nJAo/yHyutXraIth7Hmqe345y9RKXTKaa/rwE6pm9FaF6pjuZ5hv/fKJvlIscX2serPbfaF1WWBVNcD132iHEx6wg8HtRhz203A6A==
+[2020-11-13 23:19:49]
+
+[2020-11-13 23:19:49]
+hi241hmq/PJi4HvROa70py2F3I/I564nc1hBp7o5HxEPBDCkAk9Re0f8pkP/1SfhbL0TEHgxx2voYYxDwzOGDZsGTklnkAl4ZqVzTVdtRnGyF11Vi2noaZHYlI7WEvpdy9REWHa6pomRoQfCkj0+MPXJehSVj5HiITcv1SEFnDIQijvsjYUk7zSwUI3g0whoI10Lpo8g7fehGEbErciOwQDt7/rF5Be6PsV6pPn8FHiAYnIDx3YUOm8QzNJxG88p0CQhIbc73JceZwrHMHOe85HnKEMVqCPVxXqmAwyNtwKMF+W1UdDoNWhWsqr2CmmBTHkCqkFKqC9Vlr0KOKQkFQ==@QGfk3akUY+SUTn31JV4aPmTe5MFZNdGaEgqHvIYDxTqN9hqyhl3QD1KpENspJECuT3OjXhOOzma7tdsh0EcUJHPea41h2E49q31q6pYEVLR6tMOtjMRvc1Zy66nChpZIdxDwiJg1quHItWDrdXDYULDViAySz5B5NFZkrRz+axvMceaII6XPL86uWM4bFIuOph5bSRLvBtQuMj8f8gTerKpcW3H5oCzQWUSQmDlhQZg3R9FXqqndLphIrV0eMEHaJ73QLIlPKRtJR6EdHZQrxJ2tzEz+/+rhVSe7ishJV7RTPyS8GTiEA1NaIYl80cBVjYbMNL8Eu5eu44f11zm0QA==
+[2020-11-13 23:19:49]
+B
+[2020-11-13 23:19:58]
+java.net.SocketException: Socket is closed
+[2020-11-13 23:20:56]
+connected IP: localhost
+[2020-11-13 23:20:56]
+{1=Main$1$1@49097b5d}
+[2020-11-13 23:20:56]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAk7ytUXCn5sQz1099S44lG70ZH2fdHT48Vq4P5dPKyZEbdD4N2La+wVxqCfgrmKacgjGEE/c96hwvjCCZDWaWOa5dv5iMKFgiWRhHfWlSVaHG1mxr7741fRueHlCD0CwmOEeuD8gWR6p6Fw7ZsRv3TJlclfCG1DLNn6e4S68Vhjflb6PJaGUhTC15C1G6W/jjoIHrAo6FTLDYD1V4Qh8jZeRErATyc+Eci1DyNWAgO/GpN/QPEYjv25MpjCFe60G+40HF/ghAqKi+S9z8BIeLYUozrAru6ZpY3INES/fG5EPTRw6TWsDKpUc5dLgwh0/pZrYPWwkv5NHJTiGB+udbCwIDAQAB#2048
+[2020-11-13 23:20:56]
+IgKLm7k4R0gSWdIBL0Fl33xVANr8rtBUOp3sVAHQO4WlyIbiwm9045qo1UKCq5eAJU/CWjxEfmGm241VK9QKbpCZ9BDKVVvksi/4mq/HGT1cEgWlmJOIbEL/TsIn17Dps92qnSWKpU16AMi67jfxcKngus2spulcgnKGQ1h5YCCaAV0W+ZU619YEbfz3CQiBulCz0ZBKFlHU3Dz3+8XF8iCkj/44KbNWyxTm6IY0g/81MGdLpwDCB+TI1bc0Y8nU1Yz1IP3qGPgTLJN7MGergEz0KC1z4dxceKUccW8ar8mEsVJiN8g9zjkKQtcts7bXdjQXqdF9SqpeEZjzDrUZNg==@YXwnwyO1/E7U13aYkz6bvUzwOgFwpNJFx1YD0IwUEQzDWs6EMpKTB22YTCQ6T8GLIbxKePXBNoE7ZLHpcfjRqRZTC5Y8iY4bxRPTpJnVckZCbDiwefStCWE+G/SIuTOvFbO2zvtT//+cFFzVCHIOo8ndgwsyjZXhwKrtD+lYLXSTMECZureVVQ93g2zLMPxiD5c62tdEKqeUtJbjX40fG3Q0aH0v2sn8GC2RkRBYf0XGtXtOWBhPduSBeiMdlW9OBeIWvCoaljpiHXb7/Xz++sBJE0aiSEjhP38LJ2SNhG5pe27p19IVNyF72ohjJRLvHPOfAU4p17hLsHNd7/Fq/w==
+[2020-11-13 23:20:56]
+
+[2020-11-13 23:20:56]
+I+dNrWqNbjGecazt66p9zUSkLavyQPnygjSrGjgveFYXyEc46SIXV3R4YvmwPcfSGwBlRr8V8ZfWjJSP3Qeay5k32WHnRAJ/Ye5wVBIm9c/nEEAII52spr9xrJO/6KFMtJvWOhJlrGgt0iN/jvlv2lSQxzmzBoyakO2uBQF4LGHQJlqCt10/8EXKNbhLorbQH/x9H/1kGYanPOZOqa7JEXm0E3idde+S3Vl+zZ8HmcTU6YCOxqyYz4Uglw7GIovkYc2W1op9SX3QDsZNPVn9rGpBCU5elydi7UKvvioaiTKCcsqt5eEG3mvbe2KRSm2Rrx5SYZKqCd4l+5TL1JxY0g==@eLJCATgapYZZwIxaZ6Q6Ccr/+6Sh9WB+Fz1GzMmaiNl4qHKGiWJoRNdZz0fLET1/aej1K0e8GJzHHg0uSdlrFcS03Iz4nPwzhM7Owz2OUKAlCZOejdPrtG35S5almKUQWzVy1mlqxzV7y0oa1qckxANTmAmRx8hK+AD/I2RGcQcFOlaXr2f1v8mg9ioYuBM1MBiGI1FqMJpgPz97IRCm9zgBe+0bnnPFrHXnTkqBkpzU+t4Kym0pSFDvMlCvRMCKaerDGTU2xxEsGDibJ7kuw747/T65e2GsQaTNtUxKSWG/hygK+4tuueRccqksIAJVLMeMmA0ajmlvS/clvri8vA==
+[2020-11-13 23:20:56]
+B
+[2020-11-13 23:20:58]
+java.net.SocketException: Socket is closed
+[2020-11-13 23:21:31]
+connected IP: localhost
+[2020-11-13 23:21:31]
+{1=Main$1$1@378fd1ac}
+[2020-11-13 23:21:31]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAh1H25dwdsDtsPq26lQIPztsuJuZV9cY+BxFOqlA/c6u8snCAs4N11TLmLU5/gZxdgZxH67rk5vB0ZF/ajXM8Pg8nyzicGmxW7QLrcd6p4K4N+CH0M5ej3cyOslUEUhKP0zEMPu/D4m6HmECIFAibdhrmhLrqaYSm4GGQEYFw/xjotwR1O9tl7NUeg+OH57FuHlJxpkfn2uY43/f82A98i+rxc0g3rNxW3mkX8Hg9FmfPquz/QyXKUWap3FSFMFZdtIm1R5qnLiVg0NNz42xXWroMVD++rIVf0izrvHBb1Rj638eCfb27v2lrN4m7TynJpueH590TtujplKtwEd3vhwIDAQAB#2048
+[2020-11-13 23:21:31]
+T7Mv/O/nL+I7KwCx6sG5JwFK+cfpL+T+ebKudRjAis+72ErNtcOfHh5wO+q+zW/qmQJ88IEXbusCF4ZFbVZuFKyFVC2GkGfrTi4G9A3u18Paw/RAGi8LvIzu0FgIr8lcgcbrQtiHsxOK9srNiZ1V5sfobNG1QRhuVKHlMQscn2KXArp5hmegpq8Cfi7EsK7iiT5ojtXedTmpW8CULwGpi5Ev6YISVV4WVRoQvN9qmGUqmIFK7nPgS/Ye4dKGErNiW6bKUabguz/njiqcmve+xS3AxN39iwEqODWG8ks4ucHrlvtnFKWCcXjZJVGdICjmZUHcSAo5jihCelLxw2xC6g==@CO4s7QYRxRsMG/UlTXxCtXevBQi5R7OjOrb5Afw40hvZ11hrYejXD3lgKBc7ps5n7LGgEcd+CdMyJQWJuWdFZpcUt9PS0OJUsZ38rbCgAE21ABeDsyjco4lyvkoN6kJ0X/MwgUM5x5Rm0wuU9hSk5WgCqrohlC7WvUKShLC0MiViTtZ8aCBL2GQsBdqfUk3T4J4ey6fIuJ/Kk2kw0M+KM7p4NWTTvj/+EiGcmGTaQGv9LmI9dglqnLkL6zq4yoDW33RvAgV9n50u/FKVHLojbgsFwYTQJKAL8EHnp4m5ZjZawFPq/+bzaL3GnwqNNL3VEbU58nXXgCWqDR7DO219TA==
+[2020-11-13 23:21:32]
+
+[2020-11-13 23:21:32]
+ZLllBNzKk+tgbqbstIfHauLPReQVvHGroIvIg35TFI81E2rSHYqsB2cdczI/AuUzHM4e6YkbN+SFdNcWpJzj1byqGaee1jPf9tISNKBURzNErI0b0VzLCrFa0iZTiQd6J5SfMWB3lkGNqcCpgBhV0JcTizO81LrAQn4J5SWmta+JeOYZmB6X8bamqAscQfJeOyKus4A601Ltj8LnSN6RYsyb220WZ1tl6U0LqoC0DTlQ5UsdggLlGmja0Xa77CRWxfAQhEhy0ai3UCMFYRZHeknZw7e4X5U+6EBrUePnsX8SdMS4PTJDUsb+SfmC6TDI1dRHqXlyFEODGYNQOiuNYQ==@l/ra4TqsRgckUrhxIdYDBFrTSCKKTxL3mrcIeWfqkBjzzni7xto1DtNAF+xH/cIvUQnlk11ejRmgUo9PRLCkqgUnQE/ql++zVhICCFINPNShBFIZqvFODrpRpSkGOEPj1Za+C857Rebs1rG+87h1So9rdXLYwzH7JACH2IzIPeSbCpEMZsk3PjbCWdVZK40qwcPcSKLsVB6mSr6gIQjPmYHcJAGEbmchO0RACS/COY5TPcwVEX9LU64PgguYUTR/YMI13HsQe0RydVPUnkw/LbPaLBA8188fw1PRRiptRPfbLAHkbhRVaYdBNsMZwm2uW+yG1RP5vCXO+UOxNvrUmQ==
+[2020-11-13 23:21:32]
+B
+[2020-11-13 23:21:36]
+java.net.SocketException: Socket is closed
+[2020-11-13 23:32:48]
+connected IP: localhost
+[2020-11-13 23:32:48]
+{1=Main$1$1@49097b5d}
+[2020-11-13 23:32:49]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA5KfkzyR6zmCcZRxLSt9JTWHgoXy6/jwnc/31IYqj2KHMdlHD1yo6CibktTai2OY2VBNznO/dWkEUWpd2V/D03QokNRwlWP7ioQ3aP5YX59KcipUKoENMErTw3cOsfsYKZa8o+RLu24IQLTXZFwDWcRN+tTzEu3kX95/2GmZmvYg0WXJNSLsbjIgri9S+k2jCMrTThl9wvFtJOXcFMg/se+K5dtlA491BnL/roDNDTuiwR9a3FQChVTCtUbnEnXH6Q96AiFNpBRMp4EqlfECE4zgu5s3tbsV/eiWtBfaUxM1kl24aZGAnimHRu4K5PIHJ+H85iaT0e4sUg3by1g/ThQIDAQAB#2048
+[2020-11-13 23:34:47]
+java.net.SocketException: Socket is closed
+[2020-11-13 23:34:49]
+connected IP: localhost
+[2020-11-13 23:34:49]
+{2=Main$1$1@6e2c634b}
+[2020-11-13 23:34:49]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAigt61Ku3iSG/cfLd7yBiQYzNWTyQooVZIkXdaJF1yRp9Qf0q9rYYcdCRTmovBvZdsvm5Xg93bM5/8qL/k7kYRXo5aXfZ+5vjcTBIn/Tgp2Of4dFsA7o0XW0bNywLePf/Cl2wqANmQb7BAhdq594h+UeqM8wQmccOWCtW8oRvQXcKBw3Hyvpeoaoz5QptCsBvFrThdHDvlwmrIfHYbPrV+qLS/qkHm6qFekc2FEtP2SpUDgLT2wfApGhvdPl7rGaixFNd26M9Nu8feLg3o43zxO/b9cv92RFvsmMHPzyIy2ivGGUYmDDj3c8iZOsWd8LOF/T4PExIk0EV+p5NC8mbfQIDAQAB#2048
+[2020-11-13 23:36:42]
+connected IP: localhost
+[2020-11-13 23:36:42]
+{1=Main$1$1@49097b5d}
+[2020-11-13 23:36:42]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyMcsmZNZRh22q4dM51+5Alo01LsJPN9oFf117FRCFfKxlOfGVuQtvyNPt0c14Q3wnTsdpa86P+9NKLGkit8Z+TIBh3DtXI37YNG7gqmDv/NMnp9pBD17O945kCuGu+jibC4vDbRiqEaqH5g/Eg2BvWLMTVznRi3rleXvOvPpbznCHQaRNa7gPnQV/bnVP1ZnLbSkaQMlzanjvuzBqrQUhCQpbnbGRXn8uAtjyHTHrV+/7/IAGTjsdWQT/OJdiU/WK3SQYG9hrMmNC2O97652gqpmLdkTYUl3sj97CSzoQTtcxJI0BLYWV/j8qgJ2QlWDXy4IMktPUaJ7U+T6NRcgGwIDAQAB#2048
+[2020-11-13 23:36:57]
+connected IP: localhost
+[2020-11-13 23:36:57]
+{2=Main$1$1@6e2c634b}
+[2020-11-13 23:36:57]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAk2SbtKbb8un/OS6P+SnSSLy+0i0/C+UP1X5WZWWUtPTtkwmW0K+2C3VvvLkfyPNurVrcuKl/JlTImMK3+vTdEuLWe5RDJeRap0QQyM7LS7ZnOjB9ohBDtWR3fWGvlkJ3jHion7kC35fLya51QM46Ut/uD3Xw2/NdXm9sSripE1GbRFObB12XIkH+IJoyEx/5yE2ybUwARraoxaCldmDUnac52Z0W787GIvdQ5GTyy2IJz89+hp07Mie+9ia5kJ9ULZSuY2Am0gu8LbNSNkASWdhLBoiKxEqGX4imBgqKOur75DYKEK94AubjxiCmQX5SmWK4H4xTpPqL5imxEcKoFQIDAQAB#2048
+[2020-11-13 23:36:57]
+EyF/BYxBymQTUxVLyIBCWDrc6h+vbH4these4TENBJcQARaMklJi4YDkQND1rvjyFh/juwkAlLECq2v1XACRqgaxww6jUD9FId5PZBzmxEJHasxht516Yj+fQKIv1NC7h/GA1arqRU+MBmQZQsnMDrTNhDVizA63MlIOaDcLwfZcvtUpBqaY796flgP9qrYgScEc2zGECibB8WGyosO9Myhpy9wFjXRRU7pLEv4QrwbYoBozcoYdTMAcrcEFn2VbCrd2c0cGVsTRu+wRrd0gXF136RUV6s56ScHVSc4uRW1deVqPtbq00Gt9La22x1H/+0Q+bRStT6Dc9F+qYddK4w==@BsjY1bFheXU+0c0mL9WaJcniz0L2eBNeFzX6UiViJRZdWJ/GAFQtjAb3XS3+kwj3FYYqx7Hr/zIBZPLBxGkEfQ4th/qgCX/Mjs4E8AqsTeO697bG8lk/oqsPZQ0lioqJ7tsqj+Wt+iwh3N7yeS7kaM+RSyXygbhwSEPp8XleWjKguowhb1+tZKNoZHU0an9XXQuzCYpMiPWE0Pp73ON4CzPM0uMLtI+EBSJnT7PfIpoUkliElbFMQJVdJwNKgCc1kHainG35bED+GpmFXACt3vRZNiVGjYF2B2dVKEqOaqafmZPKgKVVhik3y2mRHARfgK+XHcCB7sRVY8ZgT8AW0w==
+[2020-11-13 23:36:57]
+
+[2020-11-13 23:36:57]
+MEFnStLci7NVDMz5c/XqrvzZnJEOXCUMuAPysjvGgBXJvHOXXeuo2rHme1+QLxFDfR9u1jj6+zhZsAstYrwe4PlEFZdjTnQvBJsxA7akBhrjdkfEoVUWawhzSXFH7IZUTJy5jt1P5Vmy54h2/GQWeiIcAjsSXywQmVTDYVEvKWb8FaGAVcTAIa1tlhTQdNXeZ8l92AmljoH1sCri5JZoA1Yik4bNRFmMUjon3b2+XQNxxj60V94JykkYIjekQJ/MZqx2yH7O0OKEuSjvP7g5390/LKt+LuMop8VCUuK0p4PsG8SUqJ7zjmmIJFpICCHIDXbkihaF5luA/b1DIAvc9g==@Z3aWCoz/8NpJoZnuikpMINyN/QnSqRQXozCBuRvYDH99coTcXmLsYYy5InyTKx7TEfwtkuOijRWLcmhH6ViqxeMqv78Fmjwy3q6LBLhnA1cjM2+W+vXkChf1/JMuDNjfgfniUKRoIcnPktoRaLhwKpwJMU1E+iqGTM54qJ2MSFG6V93qXxUdWTZnLNQOhr32NEuEG/PM6lpB+YPcb7ieAp88e4ySGqRy3br6X/ZXSS1mS+KBxJsLjasvB/RervWuKZC7pfwZJJDyluNcWxNZrbvHjTcC/Qfr/fi5hgIV+W+TRpJvyCLm/C1kEhik4i6Cy0Syil8rGtroiBG8Bkls8A==
+[2020-11-13 23:36:57]
+B
+[2020-11-13 23:38:50]
+connected IP: localhost
+[2020-11-13 23:38:50]
+{3=Main$1$1@37a71e93}
+[2020-11-13 23:38:50]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAj9Y7pcbG0aUIPB4MmLed4prtie53nMFygHSPpUcCEnyoCgj7GELoUdu40EJou30km/QcAu4kP3oOwbVkvI7f5D1UIGQl/8Gxfdt9oilXKZJLYth11RVcZW9euWyp8VnOfKk7/kpTfJhrPkeh1NxBZlqtaRJ0BQ0tmgRoP+/Xhq3/a2lbPKhEb7/e/URX0TSG9qCyljZUpTuoqNNk4FjiIsHVQOXXW3OSh5c5GMOQAXNMMKV51NMud/BJkLqpOLBxuUCVMR0Nrd5KJHhFrDUNs9e7nMYNoURBAPQWSKyZq0OXcySWpq3rT+tw3H4ZCbN6nD1AhmGb2lu5E9b8U5ToBwIDAQAB#2048
+[2020-11-13 23:38:50]
+dDYyzJARKwmo/Ya0eyc7WzVTRQ01HMxgs457bvfbJVfdwQ/ckRlTyETowzmPodQBYFD73b6rR87HB7126jNyBlQV+0LHiZpW/MEs7XG/o/c/CA3VvBkB5Mpc9SpvmDItCyt/P1eh4Be7j8hj/9COtKEX76rCnmeJc62SwlmYFYzpp7qx2DF+qS/3fAyuo60eKfSOKMBAoIRYgc1Iit4x+ybEytBgHmGbWv7XbL0tlOA2JmYylZRkL7TXph514+Mraa3T5s76MuO7GhC17J4pRddJrdbHPrhoRZTgq6WahU5evgzk1sCOTMjWrLP9b7o5vIsD4Q9nealP9k2Wh6PnMA==@Y5p7sxfSQVWxhKfYWEzE1SJI44fU6bpPD2pbdQK8OPzr4U2Jpf8wFA6LLqGj8D8IS2RJOv3BL52FiNhiIjS2LmJDiuJwjJSRiV1wnfwwPjS8L4VIDK3nhPOC6RMbci3aI7EZpguQvnKmk2Z7AfoDXq43krzilVHSPxw32vAKikzG548jkzTmMvOqkm32nKr2bG4KX3H40wnsrp3bdvTAzwvDlQA23FtPhR4prbmP9+Z3TmxWGmbJmGlRlGvcYj19XHT9ZepU+dCQzbzaiBEzKurGveCVvGG3ZGvWbxA770NWFxraiqpYHJEzwaExJ73r2CIbHmK/zD2UHjk9iJ+cqQ==
+[2020-11-13 23:38:50]
+
+[2020-11-13 23:38:50]
+cWNvgkUuT7aAh2FF/pWFIMkuMEesqDE+mKCAiVh8MUI2i5TXGa5i3TB0TJ4njsXdEdlKLcVNTMpHnfpelFosMH+NgBvJG7gfTzVbo1gEF7EBYc4/KI34WZAxzh5rQ5UxshNAg7YEPuaRoeerJBgopMKnrxgrejzS8qW7Maeq/mwRUy3lRZTzpvShM9drvb28EisKF3KXIWS7nBCkq0jwBufMAdo9ukb2upp6UTOVFFe0Fl5TO0vGaH07Zr9BnqBom1VyCj3WnK12uWupHPZqcdwoBm/fvFpxjcAorYpqp5eJPG/f9vpV1nxOnnENexM6A4yqNMMYizqALPDD3URlXg==@KGc6OgqCZTKkb1XAdxDePSfkMFSWKw3x2Cobdm3hnddWxcBqzxS/5SGLBGe6OmhSkCz10rL5T7i16sIL/JhIfDjMsFGs0aS4JUPSHoyHUhvlQRtbJmKLv80Za4AonPjyMuaKX7ql6ZXGNp3eUcapEGMTpor7DqNBYOpfZY+WOP16dCyRSmTdgjBJwsAu0UtUugd9V3ysNAIzgfNbvwc0wY6cJo6PHIHhp3cTbi/qXFqiTX3SB5jsae8027+e/fqPUZdYLq3ofXnCkhjBOBbrlPMO7Gn/hpJFARO5iNMuNP2noEPVCRQegqm3oBSlRpceChbCLSdYkKzKi7MEELOpCA==
+[2020-11-13 23:38:50]
+B
+[2020-11-13 23:42:19]
+connected IP: localhost
+[2020-11-13 23:42:19]
+{1=Main$1$1@378fd1ac}
+[2020-11-13 23:42:19]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwdiHBdLF5egsGZhLZdkotxoBsZ6MPcK7JrwL/aeoKWdoFiBDnXVeZW0dKCSG7+uQL+KvLsbuzSmlSAWuzvMqsL2ybl71ZJ5kK+4emW8J3iuRbA9/Y2x3jPqhFz9GQk3QLKUBtgWDGC+JIo95c+AwJgtQYfoOVCZHhdZTZQA4SObDPKZzluYERzZaj4e0S52ogSF5qkejHmDc0KqXuJEA5fnPR8/xyNx99vYqoMFDykFXRoqVxvkX4CAyoXFszoQ15lWPchH2vf+nX0Ooz9wpDiyzZWCqDSOKyUByLdOG9piQmhjlnd7up5epssX6KD5o3HrPQV7DAdRwX3TMMIgsZwIDAQAB#2048
+[2020-11-13 23:42:19]
+Qsf+QxbE/b/QogzOAETs3o0HQ1STJNGluV1/kLvze9TRKeGBmDL3eJvESLjpbT7uVkGm2YRyWtmW8tyF+PVl4MU/zA11l4IkrZoMvqs8oQesOMVeARsa89CVyLtKYzahKUHDWRPtmZLL1RPd+YeYop06sB3NIID91jsyxADOn9ngJ3z6+F18bcipKPtTUUjKWghPEvn+sAsCpYE6LGIKnLr0U0WDU7R3d30h4EFkTjAfmhaqe1naANBqc95BMIxkGyhtSyX/whiSje7Xsq1itirdCUmn3vVHvzvoBYR4P5Lfw6td/IT5u0x4ulUZA9n8708bArza2P4mHRkyWjyz/Q==@jeE9pQVx0/beEdJdzFmOP11QARDVxgUE5iK3fBCeu/MvxpaBbQfJfaZL/DEvrjbSAYFJj5hrplvkcrs45AKNBQqE3SVsmtJjJk8/QBu6rvyZ78W5LpCjhvP1BZzIFCaV9XZ6PMH00buUE5tz00N9fZiWkF2jN3pxlllwkjmfOPQ0Iud54GIK+Kf5V3TBXOUVIofmbnAUbQrf03/gh69zYm3hOVQso3bR64EOshUXwpfbezk/H3ZF/26Uw9OyAufZ7RzkOjYYk0AmRLe4thntIuRUmbRvzFz88j8BqifBjijopT5hZs8HjbZJmywhrbCzWe/mJ8IBc3s5I+0/8Cma3w==
+[2020-11-13 23:42:19]
+
+[2020-11-13 23:42:19]
+eNqD5mJ+FvHjR1+zQxMuxWdW4ldtEDBhvpblVC1zrdxWoAdeyR4md438H3TgkXyuI2QMCXe3kkJEZwCzfWf9OIRpOrYSBe52LnEMtg2lUeKz8APgWoQxw98sC3n7K4pLz0oCKNFDNiWai0e2RgoOyUp2GoBYwpTd0dSa2rUjYzums0CsMVe1cAyz9p0pHmDXPJlZqJvEmnvPeU0pcvlcxTkkQWCdbrx2WnA3HyNNvENJlP/Vs115X3m97OEE82+sSELWIdwfAlRQZIf2bMFMhDQuiUZfVFjH48IyNRzBagIeHxkLyH14Y8UnXlmHoU+Z3+3ZTUK2QSfz+ND+qrp7wA==@yjeb5wfbdtlxPSkwDytqdeCLi8+zRiB4A9qFbnbtvSlPJFGjCXb6De7e08Am9juaZb1LfQ7e5EqmoUjBx54QaZL6GhIUkhQyX7lKq4J+aobwj+U4H53VS4KA6uts0P+hy4FOIRDMmbg2oPdbHi6h0gEcDKXeKIJDuUt2wSvoHvKOlTpPkHALAicr2eW2pBBsc8jqy4O1WkcTrXmCeJD4r4TN/G6OEgcXZ5zxdT5QIq1nb0TZ4BuwvfzhOq5pW+5ogfiwo5slB5pTw6bp8vt7yfGO6XjDcnyL3DZnvl2P7nb+aGWdsZP2Q3XRIEeVfL2bUtdnH/pOB83rlDBt6itv1w==
+[2020-11-13 23:42:19]
+B
+[2020-11-13 23:42:36]
+connected IP: localhost
+[2020-11-13 23:42:36]
+{2=Main$1$1@49097b5d}
+[2020-11-13 23:42:36]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgx8ak9k4uAfXJvxKOMzO5J4p5N8L0WwgJkXYTzmu11cAVyMZ1MgUJu/Wj8C+CtJEMfUQ/xCHnfdrqNUMdTbiTdmt5aJ6Bmtd5jDayl3r1gDCRndp4kUT0Y0A9sWBdiMf6s7BGVmyoBsfUinEEP5ca0OuD0Xf0SujMVnfxd/RoFoAuCG1eKHBKBrYSHZe7hKsCSTmelaQz51QOBXLHWMisVN4Yjt+tzIYLT+KKo3BNuqqm6pgxvuKLe+DvMktZTjlbfytPqmEWDZt8979xWDDPye+Qi9Omcr1dgxWnjfhovGk5Yki6/LXWJB5KAKGIHQ2wyxqf+EOGztZOyVJnR3yXwIDAQAB#2048
+[2020-11-13 23:42:36]
+c1b5wvBcPl33xNwKKTcc0Lh0592GDCm/aF90MyhxIlwFTe5x8cxeL4MFrzRLlqcwiYv6hGo8sxW3fcK4yNU7ccv73WDNBij//fyZxZ6yFWCWb1UqSDfvuHWLCWnG2CIzp+rfPAFKijzBK/hmRGa3finCf5ku7ix+zFaq0nx9fi2Q+CiZ68g81ymgFghK1omCa0Xyv26xVmMUo33rTOhJ5eGqqHzLdGErJ+TOkueaUc3fQvGz3SNMw6X+AAq/wHoSu8hP+au8cZAWvZcqir/avIAoGf0AcUzkKS9U1tG0LH4NZ1OQ6mXlrGohQyCBGfSdTG4C/lCVrgXg0bM5j8rO9A==@T26obpeH9BOfDWHyfZlJ3WIpg3rvize5T93D7qLhAkWdftQ7ARvRg4q1eX28+vedQ9qvI2LV2D7Ag/6q4XItxOeB9ve4QZa7WzPEebKFw+HcCMrdYh0x2DhmLaqgApm5oHqxd+qg4aceLadFFCCOYaoR3BuIp+0yzD11DiPDXU3d/BssXpVoKY7Yxcyf12B1uHWAvD/GpNAyrEUvX92CgheDNGq20G79qsZ9pVFbPtMgDVTzj9vupdbr3bEk1dNlVJT/97MsDBkZw1cx00fFfCFB0M/fesQnKlwc7u3UdijRgBGj6bdPnVSmZxHqJZQ0XOjWCI3iUSGUYB2/7GltGg==
+[2020-11-13 23:42:36]
+
+[2020-11-13 23:42:36]
+fS/7qpPLiwLaSMMAFZLJs9H7r2W/YqsylYU7zOuV6irr8UJILOfM2zJ2G+bSbDm8+t05GA7Tbx9/uEop9zdlMDpI46fYSrkRq8sMnIYMtJO0f1b6n3h65oIWLD1+z3TlNO1ht90OyPJXzjm5jQzjl9QsCZrHIj+8qDEB4Kr0HSq6Zc/5YoOjahCddJr0yXNlzvJq0zxIj2w17Aw9/gu1sAK+QOCF//WqmqcLlUTij+/RJgo4kEwFfJvSD/onVvQNDy9fV1klZD4w5VM9JAqZHxsqiDQVs+zsLpQsZUeRc6EuOjI7ChVnobArslkwDiR+orAzoE3W8uT5liwhwm7Iiw==@WexxmrpvHv8TWs55XGpMr6RHEbaPLRjR2zRpjFWzbY13I279YIyYE7vRwcI5fV+1exVIQotjAoKvkzFgLMeUkBfqtlJvKJzozH/HrNjnAL2IM2lUsWMtSoEavh0PNdCZcFDkenMauNtK59oPZMszwxWyq9a8IYxNZ8cF2IATVnUmoIR/RJ1JsTHMJmwMDZvZ7JrR6JOLEhkOrf6HAb8wBDFLmJTDLJpd9RKyHZ6bvC5wRO6D3vQGMpZlwlmyqxpK+oWuWKClt0oTafJFlIMDHfB2d0e6ntMdSrLEMRH/QEx1kYdQwDDJ1E38nI3KK/WQYJuZLCP/I2DX9cUkQ9/6fQ==
+[2020-11-13 23:42:36]
+B
+[2020-11-13 23:43:06]
+connected IP: localhost
+[2020-11-13 23:43:06]
+{3=Main$1$1@6e2c634b}
+[2020-11-13 23:43:06]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnu5jk87s8QkiGi3yjdqKXZei2CJlQX0Hs27XABWVg8OWEt0J492FFUc2Wq5FBQa57epiAfPsLqH3FXywam92OxwW0Vpo/5vBqmQ+uudWFA/ZHeM4OC0OqJrvYbpHOLvziA/v4BoNEtmateTgskeeDnxZkWqEWimJuQ/TMUOMYdbWx1FMIAU39VDOwRfFNXSwV2lXcfeFxYXyCiCwOI+VHTqevE/8k7+foQV5yWorevsRfx3xYFUogtELysemcWQj7IwYD8mE4SMHKSGOXIVfj/h+qhrzi9OQyQwL6Jgr9vQXSW36t+8im4ZQtrgoIxxi3+OoMiiU11pS1oVEYWZFmQIDAQAB#2048
+[2020-11-13 23:43:06]
+kYUmJ/0vDbQBo42l2DUVe0I6CZSKgzFb7lchqV3BNU76BVbGRJSrFy8Z8aJMzKhItxxqRYNAIie/gTWJCsIwkeqomOZ6PzeUZ18M1/fR6xuNwr5BBIbuzFsUJkYpBsIc746gEZ79GemdTvWVdRV8mPWwzubYviitVNG1mgu+bzKGH7+1kfFGYiLaTaODRzHGCWdK9oFQb+D4i5U957r1JMACME0M/7jYEnthSjOyuW6XBlLLs/uOtLdioBAxX67qvQ/LX6vXYDmJNOeATu1zSeFKHQk/E0Yzc85Tl2mKjbYYButk80gT6T8GVqtpe1F24S02mtTMCZkAwEGopzUQtQ==@Np6TuaGIBcKjVSyOQGNtFjmhzghA4mZkbkVbYoaSDLQyrdIdLJUDz++tdtEbpLWutnergCzreLUfjxn6EF8JPCggyFjxb2HkGKFOM4XJx1874qMTMVoW6euK0dkZf8hM401Ss1zHR4XbyYWCuyr4ctPDixnCLO6MN7D8Qx+D40BhNYSTATAaNDJE4tFbvU7GBN3Luzaa+LiWkKaUIsvahIB5S3y80PPwPxf7yhORm4M/d5D6CDVoWoZpj4S4x9UUie1nwyIYDZcvRcpD489Ic2aSayhNJ2Z6JaY7TRbGn2IM3ny/0cNFpOhVzAntHzp7M028igssHuPpRsDl7D9mqg==
+[2020-11-13 23:43:06]
+
+[2020-11-13 23:43:06]
+HSuawrdEc77379jqBeaj4J6OPVLj89ybiICc9fkvTybAxxM+7ELXwsrze83Nky1Sk/sSZhz5Utzbup6bJLPgQec2MVS/NysyWayGd3w/EdOq54qRPufQxiLpqVQ0PtBi3jUrsNHIuTM4FEXACEJ6ZEMaMMVmvnlF7CW/8O2sZM41AI4FsqvNihCLygulVWM4w0xFEUKkc6nQlhApMsk8UJBPoFysA6ltmaCMO0zbvfwgo+JJOdm35PTjDJysnOTucNpiDv//Wfos23oPYmsQy+2MDkAdCqO1Cb4WwLoUeK7foVFBVk6F8jgCdGkdIIuR/8fMDvgdx8Jy5vd5xSZyBQ==@T1SIDcyGBCw6AcKgu0VuiFLoF+JYG4N3zq9LUW+f0IS/kxlGYfWlZ6Oxplb8OpOAuc9iUQN1aWorBBbEHL5jMJot/vcDC9QojN1M19FPd5e0vnrggCs+d1pThAPRTxdyFqtOsetVMq9N+F7KWto60/6hex5Sxl36XFjxQjJrgXrB0KNN0sm4uUHXC5+Yywg98Cf0CLDqMFu1DDx8djF+fj1wBL6OcnD44e28OR/muwQzFPtmR3glBpLNhFc6LS1HaLzAdNQ+djfVW4rVan1i0El7iLqGvnU/R6YJMRzzFKIkj0mBwu2JInMT61TSTrDVJlYtmMo8g7TTnt/IMXvzfQ==
+[2020-11-13 23:43:06]
+B
+[2020-11-13 23:43:21]
+connected IP: localhost
+[2020-11-13 23:43:21]
+{4=Main$1$1@37a71e93}
+[2020-11-13 23:43:21]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAk8R5whjuLOJVagftGlsuor6pG+8Xp4H2SBFI4LNyGT9/Ln+9JQop4CRWtqOs96hJngGwpjD3P3LSCeP+t+SyYY7/v2tP7ULk1cyJK1AVrYv5diJcCWLdyJCR5Bc7aqU9vLZ/qxtNVylKO5IaYZmPILF3Q+GXC6Lbq1NyHTNHuMdsbUz4ZYooKyLm+qJb0LBw7lf4Srw8rx8v5l4kPLtKRDVulQwv1wCX0Y97LlQQRmpptV8ZkbRn6zN+PC2Pe4NmtC67pA3Op6TEgR4AF3NoEsGtXxqJcFmfnn7Y8wj15G7LbRbkrq8wFlq1g+k4H1SpzQ8rqE5H10Jvv0vOBNOhjQIDAQAB#2048
+[2020-11-13 23:43:22]
+WnkLznFH6itratFmTRJaFf4tBeR5LwEx1Z6YFnlCP5rCPbti1ly+PM7fO67o1vCmjORz6ifcATaN/i+FwO3hlOPmPJCuCfcqi4Y3bZEyZcKPshXVS9IhZDyKtc0Xhj26vszxAxvzui5xnjHzqvykPzOcYe8tcWkjIceifOZDEbEoWQxpIykzrmLupWT8e5UFoDE7d55gyYG9z58GJXXAkrRfUaeALU8znJxVDVm1CgCnZgN4osa3efpgW7RVLwb3YrJi9NQDYwKnscQlK3hPXJzkPi2JYjbypB5dnSeven7RWiIkJMbv8igZEGSx74AVVKrhXjkGGc9oOzPXLfbuQA==@uXLe0Lr5/x4jApzgtu3uwreD8X37WE72A2ycpdklMRptO0JKisKeCyG5iwHcAReGxXHKOeorK3EbGYdmxMjINlEdYU1PfvDpjuUQsfuSKG7SedNReixGuyO8RoyM7kKNntawPBuYaN6DIfsSCl2NXszgb5IwRoXjIi1hfkFYrPVgA4+lbSKNUawfpCCAZnHaBoWDH7RwxP1KUu7QK6uV44FPQ1O1jDg0D5ygGmN3EU8itB+D+D62lrBqg7nWXptipMXQB+4SXu9DhtojH/v4mDcG4y+nR8N1gQgtpbzAcApiq9tqd/RbRdpscrEVKaZUvA2GeM+bLBBbrtQ0h3NJvw==
+[2020-11-13 23:43:22]
+
+[2020-11-13 23:43:22]
+ULkXeXR6we3haGUpx3n0iOry3OVTrXEUqo4OaR0hTFH6bxN+f3vYQ52xqawUFnz5BO9wuaJm5goItslWxiOGpUk8ri38L2dCbcQcq9Wa3ZipszJxenjLqRl+buD6/8HUpguLMoCYGRFypQOtLni61Ax2Pchc05oWf0MmukKE3kPet7pIKDivolnUrJM+d88FjHtVbtQtfEMwXRokmFOfj1kjXY4dr89ksGicnsVzjueN6WyvcBnrB013iR+3aSV0NFiYqM1aOj0O/FL2cCHR/J10SST8riM5uQSN4fEuxPA8M8HS5d1U8nHINYTiJ9dhpORIam8ByQmPvwT9J1sU4Q==@QWh21ZoxVUch7NOxzkQH9W2cPAc5j+lDj05MhIkF1s22SUZqqMaOsSIKxXivsJOxFEWL8ndkSD+m9c7BoTdxlDQGYirlpTKoIqQ1fyXpExFbU/pZB7AAII93bQVHz5RBTn3ep8n4fHtJEPNJnvF8QG33Qr9C+ed1jfIA3PFNDjJy0HkEdtfA18um6gZ6hdyDXjqNDjoeUBnPE8z86sJHh7fDunCu7uo6ov3LAug0IxbwWQKFB1CA6YuiVXC6dXNUqmQ5+GMyfr42dF8kpY7nslNQjDJ13KeSS691hcAq7G/urtcJ2+GtBlliOWEtswiCeXDtefvt5TkK1UKh2n5+gA==
+[2020-11-13 23:43:22]
+B
+[2020-11-13 23:44:00]
+connected IP: localhost
+[2020-11-13 23:44:00]
+{5=Main$1$1@7e6cbb7a}
+[2020-11-13 23:44:01]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA8bMgA6sD2prEUA/o7bhPpF9K6K1X1T40lU/UXUHqPQTcuSf5UJmDa0y9tT5JoLKoVTZLEYZXCXT5bf9QPD/SrVXvU3fjMyDgO/hthYi72pOyoYRMfLYF3Z82XTznyZqiw0A5gyrRVIBVxFNHrbKMICLDWQqlc8jQqrqlbeoVFPn+NwfuNmdQ4oftur8aSrgVmNtjd21sM8Neci/VAv9mFMTrsbfP4bD1qFUlqFTCc4RLSzwaHOZL4biO7wv+7mFQegqtHgYwwYx6Y95d+B68mXcbm98fv3KVkj3GwImnyrP+2gB3+O+2nxl/O6RG25+QdxAq/JsHFr4nvHI/MkoTgwIDAQAB#2048
+[2020-11-13 23:44:01]
+rO24v/valfY1DGMO0FT9IFM19wfSYTtcB9kOy5YbV/cGPoMt4OeQXgq8ifcYhZpUNTd5/UF+fpXMQA+cNzw5Nu0rMUfZmNtUEpRIBmT9w81KQwlmJEWwNa1rLgOI4HZ5hyzbSG3gsrF/uFs9J3iBsF1vU9PDem5WOhwqdY+I7FdO7ha4tWEbOe7U8P/up+72Tb58S9VwpSjo7X0UlCbq5xEORKQDyHWkjT/7ZUIqdNx14ZPsH0OkUu6F6z8OK+uF0yOmLSW3ltm+zw/NpWUlgCDR/uGIlKXm0WQZHd2+I+pagh/tfiIfQ/EgmmpnH8T3IXktyLdah/9neYSdq5crhg==@Jh18B2Db7aqxkxtVSK6dc8oA9iT5PGocKbcnG9FrkaSs/OuQDWY1iTkS7ZfHPheMgL30jwix0cxXm+3fIgycf81RCNnWqYxscB4lbu0CaTJ5pshA53PGiG60ZdKi6upY4vlUzk8w5LJrkmDplceae6jhoobQzxt27TuFOz58fVgCAvsVxoAtl/Ca9iAJPblbhSPu9MC7TOjx6m6McKpV0ECMR6yAWiqnyU2gkEXtR1ue+iPtFGt2wE0SWAqXYCCcjxs6jxyOPD6sb/7+ZJQ8nFt2k3kqEUjPhpr3Yb7106ILYo+w3Fj5RsuQkuu2NP/axh65+smClpMuyTETk/YAvg==
+[2020-11-13 23:44:01]
+
+[2020-11-13 23:44:01]
+LqhJi9bFZ6+hazPPTHhupW1CUWcNXD9D9g55cMafi3M/wwPX7kUnGLdUi30fwzP9tiqCXEEeOehDcT7FCGsi9WpXxlJRXq66wGo9YOtk6svjz+GM6ybhEYB50PzM/TgGo7mwKULyBTscPOXfut3OHZcSAOaTZwdN+yk/wXTikH7KGAJAfZWaoT6yAiRRHCDUNoQSKxGJf+7mi+j+N8HiBWmV8NOH45roPn/7CeC53jhXhrKnj82z35DCEA3Tmx7sTfkx1Grp6UT53lfOxr7DZp0WMtP1rvi+Ke+HPloAV2eOhVCP3RuzfIusMuRKFQjq2Ep0itJ1mR1Bh4ozRvqXpQ==@H2/CADNSCJTeAsIfUMHHsqnGQIBpwZtv1349jkQoWjQG3TqzlbhvIWxd3R30RtZnLEI0pw2JhMF509v3FWjL7/xuHM1KJslqP8ObrqAXUjdSkpwVXIp/E/zNLZvgou0rVrRDbDLgbt2x0ER3l5/FMxmEsDG2e/bIaA1jAxIOjruNosTy5fU/XP9auzWsYdvNt6/wWDOxOuYmZcorq2iL6AGyF372ORH/M36rLPjB2szzpHwh6rU+i0MHkXc95x/rdLKcOj7gqBo3vq8XP1YTq5akms+jQRdlHZHYqAANM5QWX7B8piHLo+ZRbi0UibrQX2iKRK/OTky6alxqoiVjqA==
+[2020-11-13 23:44:01]
+B
+[2020-11-13 23:45:33]
+connected IP: localhost
+[2020-11-13 23:45:33]
+{6=Main$1$1@7c3df479}
+[2020-11-13 23:45:33]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgossv3C80sQoVIccx1P6tFYc0GtOMx5h7gwy1A5dR5X+OdqIaKZPMI5fWLPUW/EfnYo5b5b8SjL1dIMs+2yzYY52GXce7JFctxhwk0SF/Uh/LWMTHnu/Hh1YtDf3M96tfDlg7MERHYEAIvMukYKGs4j+Vxp0PVFsA02wY5gT/0UsMR81jWmDgvB+7GBA1BMKZ+19zTngD2zqavYjiXyjVscTRBrB1nwu9GSGoVovrMbwn6CahI7UBdKr0RnMFze2HxTo2a49PHzwEev4xMpz6NaL9cB58d2kj0mmCU+z8REqc+Tiaz3YXlpkhypmH69yqGi4O2ttCEv/cb5uufOwxQIDAQAB#2048
+[2020-11-13 23:45:33]
+LmMTBNVY+vqi60u5tG3FtdDkmQdavtnNgoTO+9YlW4IbdPGH9M10LtfuNQg++k+9xkQ67+NurQvOQMBep3XsYg06KIRIbFSU8+YMFSDGQV0vLvNZ8ctQUGUCnGDn0NiDlx99+zoqbyMh1Rang7dH4KvDh2DM8CCKptyPocHQs+ArhtNctjb7fFagqemtsKjoUELUWOLP1+r2d/Pgi5vtTTBO74qsblmcxe68uTvbJWR9piz+RzNdsWSJgIYLFFBIqzapqQWRuXb+ZQAdz3TpETkmwjlSUOpUe+MSU3p/KD9kIIorP3wnzHaio+6kjNf49q9hKc4Rf8D1y4O0EqQF2A==@R6VJkmaUhsYlEfJUSPIN08Vm/ScWwN8JdPNaOSs52axsSnme+Z1WNttJqQMLY3WgW/Ch+TdbbO9Ia1FLC6V740oBHhDdYOBlAdlvxJa2C3ZJYZpcN0x9G/SdVRjrXBUK6r4YEJJ7EaiJPgEpV0irCh2XqgEXyR/EcmL0Miqbt7YQQUyDM9Ykh3Tqqj0It+o7gHMKmkyzdWhUEcvHOTRzhb9q0H2Uyle4APSMC1gNnWmYSJ7+sQZ6+C9uGZN3tk7aStMl59hsVmDYnGDbqfL/hY862JUfKDpHVjhBrgSeoY9c2UY+j4p2QjEDRmHcWyXsFHPFpILXsKb8shZAw7VL5w==
+[2020-11-13 23:45:33]
+
+[2020-11-13 23:45:33]
+LW91BAXRyGBfUxF5NoS/d++Ac4MtKMSwn1NBt8NpXae9cXxn7cPpj33H4uRwNwIbIAD1nTCpDcP+IpCmA5JcenggQJVoJ9liZdXXFMLhQNhjhNHOOQBCx+GbIRQ1DGalS8dmgSO4C/8CzG2bo8Uj15KrGSxF7N+QKkTx31pKWD7J4oOJIfk7CFiIUOwTAW6Fq7Qjy6i/eIC6uLLtjtpDfaWcSrCNhKEhw5tgczUXhu0Xr3/eZn4NL9bgTVHbet3/22o3TNq2XV+30SCoTbY/7rITQS4miJGANaYmL/iqcHTxtmcoKmenowuxatmCy98UdJ0FH/d5XczVq9/YWYab6w==@v5o3DlekY8z6fL09W0SdWHGuQzEWcdL+VWk7XPoikXXZJkdzU6heUOd6F/K8JjFRCIS4oFwbxfD1l8oAiWLazG7cp4rT8UchpTH/41Nt/QmRnL5IDAa09CHwcYhs9HmjK3kOXbBHXxeE/GsVCi4Y073eDUBi0bYTM6V5djP+wxH+8kGS11RIjWjNHx+gdkd/LnxQLuGul2VJualEiZK73tm35DW2CRjbyidDDfuYoZQuZfTxN6Vybysay9yMrceHrR4isnABZIG69F3xSBYdLXMHXZE4m/bAMK2nxblly+pn7EebEzrlcqtLBmQbj26zeXKTS2oblBc5EM0LMpKFXw==
+[2020-11-13 23:45:33]
+B
+[2020-11-13 23:45:43]
+YAV0sMUDqVqKck4/3E9cZ6IxED2HAnJKpMFgeZuzcx0eRwzXWzz621yX/BCctbCbXGiQuACsTXPrZg9Cu5owpWTz99WEb+RoT9i4HV55u0y7S6SUdOfeAXoKcsN1neHCpj77YFF0ZfEdo3KS3fie6byQqE6eA+H/Z4gutDHgjsOOWUFZi5BhfHcT4UA/mpGM/5ERaJhnRgo1DG4XIhjS729geL9M0iqExQERL3StlHjstEzVk+ZbkrCK/3XGJKF4IpFbd4p5nme3MVNVr/BsUXn0OBWp+4n4vhfEySgsQCLAJZzWnnicRN4yDQd+iyNSogb8iHqidsCxIWnNjNYKxA==@FEXTcsVuYYG1CrcvYSlbx6k/oPKPWuf26KwyL/qpwd2lIASye7ax+O3T5i4qvkMD9uc8L9hTI0FpkLxXllE4KccY8GAv3ugcMg9ttsfUrZyt24JDZK+xQNdB+v6ZYqhW5TlDm12/MFdPGOxW+659EKH0R52oU82wX8pe2f+0MgrcEORgldJcozHdMc6/6mq4qSy0Nj1r9sOTwYCNoJFlZa7AsM1BkUhzs380T1TepZ42ccJ9hJHYKwNV8j6tTgeth4uSZetzH2c/yx26KdwAOOYlJyaT0pCt8W88sKa+jfgoN4lEtx2jbpvn41t6+NLGy3PG4rr/FCmicYzqQOUT7Q==
+
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgossv3C80sQoVIccx1P6tFYc0GtOMx5h7gwy1A5dR5X+OdqIaKZPMI5fWLPUW/EfnYo5b5b8SjL1dIMs+2yzYY52GXce7JFctxhwk0SF/Uh/LWMTHnu/Hh1YtDf3M96tfDlg7MERHYEAIvMukYKGs4j+Vxp0PVFsA02wY5gT/0UsMR81jWmDgvB+7GBA1BMKZ+19zTngD2zqavYjiXyjVscTRBrB1nwu9GSGoVovrMbwn6CahI7UBdKr0RnMFze2HxTo2a49PHzwEev4xMpz6NaL9cB58d2kj0mmCU+z8REqc+Tiaz3YXlpkhypmH69yqGi4O2ttCEv/cb5uufOwxQIDAQAB@{"email": "futerry@outlook.com", "pwd": "ehacdk05", "bimg": {"0": "4.333", "1": "6", "2": "4", "3": "0.125"}}
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgossv3C80sQoVIccx1P6tFYc0GtOMx5h7gwy1A5dR5X+OdqIaKZPMI5fWLPUW/EfnYo5b5b8SjL1dIMs+2yzYY52GXce7JFctxhwk0SF/Uh/LWMTHnu/Hh1YtDf3M96tfDlg7MERHYEAIvMukYKGs4j+Vxp0PVFsA02wY5gT/0UsMR81jWmDgvB+7GBA1BMKZ+19zTngD2zqavYjiXyjVscTRBrB1nwu9GSGoVovrMbwn6CahI7UBdKr0RnMFze2HxTo2a49PHzwEev4xMpz6NaL9cB58d2kj0mmCU+z8REqc+Tiaz3YXlpkhypmH69yqGi4O2ttCEv/cb5uufOwxQIDAQAB@{"pnum": "13917778205", "pwd": "ehacdk05", "bimg": {"0": "4.333", "1": "6", "2": "4", "3": "0.125"}}
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgossv3C80sQoVIccx1P6tFYc0GtOMx5h7gwy1A5dR5X+OdqIaKZPMI5fWLPUW/EfnYo5b5b8SjL1dIMs+2yzYY52GXce7JFctxhwk0SF/Uh/LWMTHnu/Hh1YtDf3M96tfDlg7MERHYEAIvMukYKGs4j+Vxp0PVFsA02wY5gT/0UsMR81jWmDgvB+7GBA1BMKZ+19zTngD2zqavYjiXyjVscTRBrB1nwu9GSGoVovrMbwn6CahI7UBdKr0RnMFze2HxTo2a49PHzwEev4xMpz6NaL9cB58d2kj0mmCU+z8REqc+Tiaz3YXlpkhypmH69yqGi4O2ttCEv/cb5uufOwxQIDAQAB@{"pnum": "13917778205", "pwd": "ehacdk05", "birsday": "1167264000000", bimg": {"0": "4.333", "1": "6", "2": "4", "3": "0.125"}}
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgossv3C80sQoVIccx1P6tFYc0GtOMx5h7gwy1A5dR5X+OdqIaKZPMI5fWLPUW/EfnYo5b5b8SjL1dIMs+2yzYY52GXce7JFctxhwk0SF/Uh/LWMTHnu/Hh1YtDf3M96tfDlg7MERHYEAIvMukYKGs4j+Vxp0PVFsA02wY5gT/0UsMR81jWmDgvB+7GBA1BMKZ+19zTngD2zqavYjiXyjVscTRBrB1nwu9GSGoVovrMbwn6CahI7UBdKr0RnMFze2HxTo2a49PHzwEev4xMpz6NaL9cB58d2kj0mmCU+z8REqc+Tiaz3YXlpkhypmH69yqGi4O2ttCEv/cb5uufOwxQIDAQAB@{"pnum": "13917778205", "pwd": "ehacdk05", "position": {"121.52626753515624", "31.440094596837262"}, "birsday": "1167264000000", bimg": {"0": "4.333", "1": "6", "2": "4", "3": "0.125"}}
+[2021-01-10 21:59:37]
+connected IP: localhost
+[2021-01-10 21:59:37]
+{1=Main$1$1@4edde6e5}
+[2021-01-10 21:59:38]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvN9ykwEU2TieuTXpBMs/FN/bz+g6OxT+PIJncGdie1hYTgXFmgFc0Dhe/wqjwGV3H4uMYUcyk4PBBz2UaAKHN44MRojF/9OnTmlBqSDAQBdH+nNkvS8U2hQhQF6Wu7IhMTyy5mmYLMi1tz4KIZl0Q5aoFizyoh3pRHA2fyGMevLaocYj7efHeXGQv0QlCRcRujKMUuBc4qeHs1q91o648G52R86TM+CkRC1BjyYDQE/h2s5cYA5l0/UKhYRA8pT3IRNUP9FNQygtVHRXB8A8T0+bufDoqRcePPfi1Cd1oB4fcm1bak2k+O9BguiC79tsicLt2sqAKfBQOrrwaHXrKQIDAQAB#2048
+[2021-01-10 21:59:38]
+n/vdO3ppzlEt7NP/PqXLFiYOqumx0AU87CWP+cWnw8+hhx2aoqfPYIMqstt6W6dlhGqzXaZbgnpP2hHWwSaM07TooWyG/0KuukZD5tbG/9rhHPrjryLRyn0Wor1jQeYq71zMGUCW6llgWNps8XF+zAvfquC3uiLpJun59Rfqu4fvqcTr375kWVJrcbXTs0tSenXeWzbCRVoBkt2vqdjpelR6dzv1eaJI/9XFaONd5Ao5Bc9eCpQdE4q+S5eAOii/bImAGch8Y4Kvmnu19AbpuDVTxgsE9cGc4CTgb4Oqo4xGAFcOFqM0Zt5k86WreQyWRYs0CkTY0xmrVk0J4nZVPg==@VUjAI2G/KRb5slv3pb8RAtS+nvd+phbM8qbesAIq5SKCE+Y5/N24vtKTYNbiUI21TKGnX53uKt6KIJ56bPnBtPj9OqPV3ZGqw6DBKxj7R7L1GQW2cB2QKQOaUHTLHmLAR3DYTj/ytoP/kUpbReeqbvkLpNK6IZf0KmSja5srCTOgT3PVn0WZvgOUnJCeu4mtYl+ayJVoffsjss5KcS5w5DG75zJXbmjOw/2YCiV5Usveh2BvWGIdloqz5nAKTE0d2EamEFXDCm6K/JY0gfeJyyUma51x/rpNNgNg+VB4FjjFPrbYU9OSmL2MIRwCMU5G64g3pmypHLnpRTXpemiyzg==
+[2021-01-10 21:59:38]
+dump
+[2021-01-10 21:59:38]
+YpHOjwwmaKb5VjXMoIj7EMP5lU4p8KgSVnCR+1T80N/DoBdXsnOzCACPa0U2WgKfdRlAs9MeMLzz9gQVGa0C7IIJqEZ8VbVzkt7VT6/6kdhLp4M0B3/5qUlo8ZAPnV7TbB8rE1vRX44tugFFP8cOSVfvDjP5PADk9oObu0EZmwKA8CvbvwWm91+I+f0SYTEHbSPDXdnWRkcfaG3kUXKZ1wPnahoTTl83+9C7KS4DDq/L93DSymdJA+303P4lagrEuy7GuforUtBqJJ6ssfobnVaUirDLQEvn34K2Lp7l7n9YJFiX2z4GvZjJCwcwaAKam7XT4rSR1ZBIreL9G1ee6A==@fy+36AoqyggrNbaC5qVps698oBHmr6bU4smW1NeHVg9B9G/tInEMYTZQpLQkhLAT+srCENDVKHm2mbkE6UwReNJDBwDySJnEQshTAis2KbRAs+tOYkz0cuCLQGJaQBBOBNv6k/lI4S3oCCIRfdZ4Ql5cH1UETyk4Z1ptaiM05vtPNzNxzXBcMGgeFf1vCjEZVZqRPogW9fUQiJ18+Gz69962vadAyWYsViBGhnvUWr8hSdVqD2fhpBwpFFGTzf3kiUBWXShUVzT+hRd5eXZUsQBQVYUWaa0WKu8IngGIY555dFmXw3Do/fUZnNd1unmzsa8ukRi6csj5k2kbnko7UA==
+[2021-01-10 21:59:38]
+test
+[2021-01-10 22:01:26]
+connected IP: localhost
+[2021-01-10 22:01:26]
+{1=Main$1$1@70177ecd}
+[2021-01-10 22:01:26]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlAkloMl6RjOAMUdmNUvxARdoX/7Oiqjxdu+5gtahbzMxLWkQGaUNMDdi3/ib7Bas0YHtl1L7QZhOLFmgDhLASsS8LuaN3USKWYrivccF2xwoQurQNj/ByTSuMfgGV4NptOdgWVilYIdIn9cFL6Zbk1HO/5x81p+6RYVE6m/xjWkld6pS9asLdVPak8E6l/BqHgJlBNC65m7YbfTnGT7II6xBObm1YQk80uMOYz0tvyOeOwXUqop26PjhHPp9KU4QhPJwalH0tl0frOQ+eCUpbfvGgVH9D3t43YYgkM5O9nYRWJGJQpILWwuWFu9c4XeHR4LXpJ7mRXYo3Wn8kI1Z4QIDAQAB#2048
+[2021-01-10 22:01:27]
+VMQ5EgdbXmu2xZ30YNQlOK+UNcijVc5NRwYk00FJgBM+1+xvbIYTG3iO4mMb4k+J5zFS11OvkKjjO89OG60vYD1Ag957c2msF0RFh8U1HnR0+XJAv4QYBSOxM8yOc4Xag4IBb8YotzvajXV/D7BpXzDVuK/yOzaZL8jNPEcLxLTF+7MIderPkHGTkkVGOenBKFqi/ryz7Jy+w25cNF0vcRDqv+S4HYIb84E2TsZMglTik26PIHQj/rKvwtrGF93T5lQcp3BnoxQydSCzrRedgKDZUL1pc4r0wadm4TleVVxlaHN26FmZNoBG48Fh7hpOwN/LUXc+EAB3YCPWSl9+wg==@HzfmH5g3HUZ7Gj4dl4uS5VxI7FbcT463nXQhyV1Hyx97a4Q5QZbG/OVIwCLtu+f920PW8TDAP6fy2ybrtRTHkoaw/ub/ipw8tN/evIZBmG5kjoJmHlJLTg7h6stphmsfAnPLf8Zmyrqpob/snZyNn9bgJFolpRHi9W+Ap87JpM6CXbkwD+b+io4emjBAcQzqSqZR+s/SggtHfXKOrau4RtXiLXnhvneWW3WNgV2MfipbjWWtNtByTXxSoBtFe34R10y//eNBYmkftNn6LUm3XLUp8B5qD2NIGIinTfiy/zMbt+UJeDYmyPqesUYxZeUK2gDHOkEoohclpE1tnsz9DA==
+[2021-01-10 22:01:27]
+dump
+[2021-01-10 22:01:27]
+[dump]
+[2021-01-10 22:01:27]
+gMT+/4XYZJ4k1li0HqfM4Fvx303kmQkKgBMYdEK12K1/4wz3l6kQS262KFrLkqxXCZ1cP75UJF0UOBO8+wzkOChUQ3IPHF72CFGktQ2fCZjMc+1AVwBtQ+AH5F8pKe5+AdLjtRmvGn3yfphGZ2IVi5gsI+yy60jMpEw3wg1w2iqV15+dkrNPZijJA2CBmGJpmnwYkEocNDDRhVUt5wXEgnHGzQZAmLj+zagYZQOVvGLCE7rluxCn2/X0aLMOcKmXKXjn/fhUgnvIySCq7B7unISzmTFjfZBegD0TYI+vSq8XGW5XwEuG/gPFocunyzkhgDal8PevVfymiozbODk7yg==@V1vTjIKh9XSIcOgQTyYSe9bCJEuYW0IahdXNeKnDlkk1HP5K2GKeW0M27dioZ3H7smknatrLeOwLaYjkm0VuwL0OLnDcc8TycoTiOEWC7e2tZqR1vgO6LMEyHoK9jL4w9aFEvn4zYfWlxqywBIFOux2nzbBT0MCgjRxkoaivVcv7kEOQz75Wbe7JUJTWa0vWaGe4DfO6V6IkP6xk1Sgc+7pGrKZRVZt5mjLk+uSyttaeBHCguGkvviJNUWanWchjtXMBtXdRTPH5NUT29XkPoIEaKJBF6aTT4TstmQDd+7XluzVKxxAm7BytAeVLYEDLOcbei8Z85ZKkGnarXvZWXA==
+[2021-01-10 22:01:27]
+test
+[2021-01-10 22:01:27]
+[test]
+[2021-01-10 22:02:25]
+connected IP: localhost
+[2021-01-10 22:02:25]
+{1=Main$1$1@70177ecd}
+[2021-01-10 22:02:25]
+{"name": "undefined", "type": "usr-g", "project": "undefined", "process_id": "1"}@MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjfKJ3KFMj09oMdU0XNgdvmdqDeH2Lml3Do3mDWuJdXOXSshzzCJu/HYN1WHaWDtVpmcdOFiyTOWEOOpvRN0q2kVgbuI8r7YyT3dREYDpGZmK0/mvJk5MCf+M7QYov28w7vL+ISRjowsN6dKrIzSluaQ42iK9+a/LhgdNLbaBSlN2e4hsbcZIGfFKGo49W4QXMmDgTJjrqACAVJdHOHnCZ8hNXf6ruk29Plt+rKPUsVICS0g3YxvluevfI8wQfpX8XBZQW9br92zTJKReTpfKNeu7pukygR5jyFuxNcBO9gSdZM42EMjyeglr59BnbG1eufiR+8DBfxOt4zSMSmmGGQIDAQAB#2048
+[2021-01-10 22:02:25]
+NSAxXXClMlW6kljJb2qZasEu1VDSZ1kQTX9fDA73lbytTpU3bVccn4a4xSnYzq6H3FhQ5J0EZdsHrSLhhFoi4rFs+rR+gjYmeezRlcB2hNZX2vdjQK/8RWLCe+KmTMAAqbPv6XN4AH5hkhbFBOYKdhZoO3W0nb9ZoHWgY9jKBVhIkXDOaX5QYlIXgfF2ATRFyU5km/TZJG/3Wu7CH/D6RsmK2DGAo+W4fnWz+OwTKAfKOmfd94RzC9IcgeLS/FzVwEzT1hDMtAiopg6WUzA2jUcAlxf5B4hgc65u1SCMmieYSnqtF8lDtx4TLC9h2XfifAOaHTemOORl+ucdAteJ+A==@HzLjRPxqwqUezToFiDJJSmdHnsqXzJn37ZAD681+TTrLLHHRzfVmY1Vf/BRWpLViJ5daTQ2WYkI6sYifHXgzamDEP2crkM7OlsH4zUu2XcU8/O5z77HrlKDqGHV7W1cOT2Fv8RJ5L5DYu78GTQAEqBZ3K61HtUIOYwyxsvn/gb5/1Wzv74sJGs8s9AdVf+2mnEZsdAnRN/Zbvcy8MVJ9DxCV8kt74L6eyJwO3nLgWws/sChaI04ZVPlE01WqvP9TNimZ95F4JXlaImClHqJohRh54GpkruPVvrgmNx1Xl5BVRQhipit8F4IqsxkTJHSoB8TecvgQSmeOLFb3vScWsQ==
+[2021-01-10 22:02:26]
+dump
+[2021-01-10 22:02:26]
+[dump]
+[2021-01-10 22:02:26]
+gO1VB0q+tNRl4Mn6slMtorifDPkD7xjO5zjXyMdlc2xmTOJ6vnO5qpEXbkMhU9s2wD0fbrbc6TnAhkvlNR8oPQrlQU9jmPbj3Xlnt5j4n5hX/Oe48yqGnQS0NNdMoWoSke879CNpprleNTvmeAY5pOkZBWyPfqtiG+VMJ02Hmqwn3XsHv6HbPdT7p4MWtd+M2RPkTfUkIc8Jddy/o4AEslasVA1azxYoFvyPHmCm/mv3Ni26wRmHiKJEkWJdi6ni0zWiTV378ObyPFNyj7lGBfg9RhJzKkJsVajTsWBOXtzKI5zWlpelWXc12zAGSJoYlwGaUlIZnEjJciEADAElgw==@P3zp22vEyjPE+odaDglWzhf1+aUMpFR+a33HZWVuwTkp7QUB9K1IpUSqPYLj8/cWHSR4bIm7Q2dRQi/e2mTuuaeWAUVkwUJI2U6r2Llf0q33boRRyvFq5RqGOo0iRzgPKxeGsySf2C8KkhFeXv/YXerGL59aFwb6hVVZT3cQHGmjdwBPr2siEOodu1D/FBK2NEBgrcMKiOAa5zBkMGbAIqz9d6zgH75gRo//YmcgoVovwMRU/p8dh+GZLdFrHx5g9XMcMhJYEB2poYoOGW7/5+8y0VpTxHfxSILLHKTAozO2n4ThRblauNaSjYCG64J+f0ZzdcmqamgwhmpT8R0jGw==
+[2021-01-10 22:02:26]
+test@1
+[2021-01-10 22:02:26]
+[test, 1]
+[2021-01-10 22:02:30]
+WNtu47gjebUGSPM4H0pvUaLw1WaKrHO9PpCOnol4KpzkEoBbixzO0NAxw+aOY3mABpdeoYlflg4gMV6P3Eu4qga6eQAtlJML3NoYDj2ouUgXCmEGr5d1ENQutvabCBnj/L2gvC9jXOI6Jz0//QB5bcdvcc1NJRa8KMulvVdm9fCrrzPWa3SR7wNGtReX+oNzP1AFlrVT7UUoOKow3XHrO5SS2LECZ7LP7uqkj7OJsXDCd3T5+cDat6r2y5pyPvSE3ZIOT+5KxQzmYMGBnZhKEkm25aQDL8m6rzVEa6DlN88jxntofLLId02X3+t0VbhNb9dys7ypnOYsAzTaSeJUTw==@N6sBNohL9haqxbNkPkNqdkUdAmjRx2nHxaGWT9QeXTm9EpJBGs40pszEu/ljxIh7J2Yn0cdftQIcWRA3/wTENGXfsOTUkOPsgW8jdcVfl/HRM+9pOL/j+JH5762y1E+dvYngjuQxhv8hM4mCxEnCsqAhul1z+YsNAkv9SEfhhfJzJciem2vC2RlSq9tjpvsFA5IU8WDPfnQ+id9Ocguu30SltG9EQdnA4Wu/mFjvLmGLu/Qijwsou8J7R/n/qCU3xkY9gFc3Gqa+0fXFG89440J6QKDjr8+yT5ROLB46iJwFgLHYyh5trHoyLa+FROHsdpqjMR/30Uvv4933QeHdbg==

@@ -1,0 +1,1 @@
+configuration = {'key_length': 2048, 'name': 'test', 'project': 'test'}

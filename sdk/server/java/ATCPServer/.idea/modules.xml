@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ATCPServer.iml" filepath="$PROJECT_DIR$/.idea/modules/ATCPServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ATCPServer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ATCPServer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ATCPServer.test.iml" filepath="$PROJECT_DIR$/.idea/modules/ATCPServer.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/indi.atatc.ATCPServer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/indi.atatc.ATCPServer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/indi.atatc.ATCPServer.test.iml" filepath="$PROJECT_DIR$/.idea/modules/indi.atatc.ATCPServer.test.iml" />
+    </modules>
+  </component>
+</project>
