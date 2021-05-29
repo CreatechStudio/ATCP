@@ -1,3 +1,4 @@
+# ***ATCP is now abandoned!***
 1. ## Abstract
 
    *ATCP* is a powerful C/S long-TCP connection framework developed by ATATC™. It supports:
